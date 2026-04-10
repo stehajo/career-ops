@@ -1,0 +1,4905 @@
+{
+  "source_path_in_archive": "vorlagen/organisationsanforderungen.dotx",
+  "source_file_name": "organisationsanforderungen.dotx",
+  "source_format": "DOTX",
+  "extracted_at_utc": "2026-04-07T21:31:22.841175+00:00",
+  "document_properties": {
+    "core": {
+      "title": "",
+      "subject": "",
+      "creator": "",
+      "keywords": "",
+      "description": "",
+      "lastModifiedBy": "",
+      "revision": "1",
+      "created": "2026-01-26T10:30:00Z",
+      "modified": "2026-01-26T10:30:00Z",
+      "category": ""
+    },
+    "app": {
+      "Template": "",
+      "TotalTime": "0",
+      "Pages": "6",
+      "Words": "569",
+      "Characters": "4510",
+      "Application": "Microsoft Office Word",
+      "DocSecurity": "0",
+      "Lines": "322",
+      "Paragraphs": "203",
+      "ScaleCrop": "false",
+      "Manager": "",
+      "Company": "",
+      "LinksUpToDate": "false",
+      "CharactersWithSpaces": "4876",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0000"
+    },
+    "custom": {}
+  },
+  "settings": {
+    "update_fields_on_open": false,
+    "track_revisions": false,
+    "default_tab_stop": "708",
+    "zoom_percent": "100"
+  },
+  "package_parts": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "customXml/_rels/item1.xml.rels",
+    "customXml/item1.xml",
+    "customXml/itemProps1.xml",
+    "docProps/app.xml",
+    "docProps/core.xml",
+    "word/_rels/document.xml.rels",
+    "word/_rels/header3.xml.rels",
+    "word/customizations.xml",
+    "word/document.xml",
+    "word/endnotes.xml",
+    "word/fontTable.xml",
+    "word/footer1.xml",
+    "word/footer2.xml",
+    "word/footer3.xml",
+    "word/footer4.xml",
+    "word/footer5.xml",
+    "word/footnotes.xml",
+    "word/glossary/_rels/document.xml.rels",
+    "word/glossary/document.xml",
+    "word/glossary/fontTable.xml",
+    "word/glossary/numbering.xml",
+    "word/glossary/settings.xml",
+    "word/glossary/styles.xml",
+    "word/glossary/webSettings.xml",
+    "word/header1.xml",
+    "word/header2.xml",
+    "word/header3.xml",
+    "word/media/image_rId1_header3.png",
+    "word/numbering.xml",
+    "word/settings.xml",
+    "word/styles.xml",
+    "word/theme/theme1.xml",
+    "word/webSettings.xml"
+  ],
+  "summary": {
+    "body_text_characters": 4310,
+    "body_paragraph_count": 169,
+    "body_table_count": 8,
+    "section_count": 3,
+    "header_count": 3,
+    "footer_count": 5,
+    "content_control_count": 3,
+    "field_code_count": 32,
+    "glossary_present": true,
+    "glossary_doc_part_count": 2,
+    "footnote_count": 0,
+    "endnote_count": 0
+  },
+  "headings": [],
+  "used_styles": {
+    "paragraph_styles": [
+      {
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "style_id": "HTabBeispiel85ptF",
+        "style_name": "H_Tab_Beispiel 8.5pt (F)"
+      },
+      {
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "style_id": "HTabTit65pt",
+        "style_name": "H_Tab_Tit 6.5 pt"
+      },
+      {
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt"
+      },
+      {
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt"
+      },
+      {
+        "style_id": "Inhaltsverzeichnisberschrift",
+        "style_name": "TOC Heading"
+      },
+      {
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "style_id": "Titel",
+        "style_name": "Title"
+      },
+      {
+        "style_id": "Verzeichnis1",
+        "style_name": "toc 1"
+      }
+    ],
+    "table_styles": [
+      {
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1"
+      }
+    ]
+  },
+  "detected_placeholders": [
+    {
+      "kind": "content_control_alias",
+      "value": "Dokument Status"
+    },
+    {
+      "kind": "content_control_tag",
+      "value": "Dokument Status"
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "in Arbeit",
+        "value": "in Arbeit"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "geprüft",
+        "value": "geprüft"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "fertiggestellt",
+        "value": "fertiggestellt"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "abgenommen",
+        "value": "abgenommen"
+      }
+    },
+    {
+      "kind": "content_control_placeholder_doc_part",
+      "value": "448B691DD16344A4886C2352182DFBEE"
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "Nicht klassifiziert",
+        "value": "Nicht klassifiziert"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "INTERN",
+        "value": "INTERN"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "VERTRAULICH",
+        "value": "VERTRAULICH"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "GEHEIM",
+        "value": "GEHEIM"
+      }
+    },
+    {
+      "kind": "content_control_placeholder_doc_part",
+      "value": "352FFCA327FC4F39B58E3F2DD71BEA4E"
+    },
+    {
+      "kind": "glossary_doc_part",
+      "value": "Status auswählen"
+    },
+    {
+      "kind": "glossary_doc_part",
+      "value": "Klassifizierung auswählen"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[1]"
+    },
+    {
+      "kind": "ellipsis",
+      "value": "..."
+    }
+  ],
+  "field_codes": [
+    {
+      "part_name": "word/document.xml",
+      "code": "TOC \\o \"1-1\" \\h \\z \\u"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212108864 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212108865 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212108866 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212108867 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212108868 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212108869 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212108870 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "DATE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer5.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer5.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer5.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer5.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer5.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    }
+  ],
+  "content_controls": [
+    {
+      "type": "content_control",
+      "alias": "Dokument Status",
+      "tag": "Dokument Status",
+      "id": "763658595",
+      "control_kinds": [
+        "dropDownList"
+      ],
+      "placeholder_doc_part": "448B691DD16344A4886C2352182DFBEE",
+      "choice_items": [
+        {
+          "display_text": "in Arbeit",
+          "value": "in Arbeit"
+        },
+        {
+          "display_text": "geprüft",
+          "value": "geprüft"
+        },
+        {
+          "display_text": "fertiggestellt",
+          "value": "fertiggestellt"
+        },
+        {
+          "display_text": "abgenommen",
+          "value": "abgenommen"
+        }
+      ],
+      "text": "in Arbeit",
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "1673300542",
+      "control_kinds": [
+        "comboBox"
+      ],
+      "placeholder_doc_part": "352FFCA327FC4F39B58E3F2DD71BEA4E",
+      "choice_items": [
+        {
+          "display_text": "Nicht klassifiziert",
+          "value": "Nicht klassifiziert"
+        },
+        {
+          "display_text": "INTERN",
+          "value": "INTERN"
+        },
+        {
+          "display_text": "VERTRAULICH",
+          "value": "VERTRAULICH"
+        },
+        {
+          "display_text": "GEHEIM",
+          "value": "GEHEIM"
+        }
+      ],
+      "text": "Nicht klassifiziert",
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "2069071964",
+      "control_kinds": [
+        "docPartObj",
+        "rPr"
+      ],
+      "text": "Inhaltsverzeichnis0. Einleitung 31. Ausgangslage 42. Stossrichtung des geplanten/geänderten Geschäftsmodells 43. Stossrichtung der geplanten/geänderten Aufbauorganisation 44. Stossrichtung der geplanten/geänderten Ablauforganisation 45. Anforderungskatalog 56. Dokument-Protokoll 6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Inhaltsverzeichnis",
+          "style_id": "Inhaltsverzeichnisberschrift",
+          "style_name": "TOC Heading",
+          "runs": [
+            {
+              "text": "Inhaltsverzeichnis",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "0. Einleitung 3",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "TOC \\o \"1-1\" \\h \\z \\u",
+            "PAGEREF _Toc212108864 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "0. Einleitung 3",
+              "relationship_id": null,
+              "anchor": "_Toc212108864",
+              "target": null,
+              "target_mode": null
+            }
+          ],
+          "runs": [
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "begin"
+              ],
+              "instr_text": []
+            },
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": [
+                "TOC \\o \"1-1\" \\h \\z \\u"
+              ]
+            },
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "separate"
+              ],
+              "instr_text": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Ausgangslage 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212108865 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "1. Ausgangslage 4",
+              "relationship_id": null,
+              "anchor": "_Toc212108865",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Stossrichtung des geplanten/geänderten Geschäftsmodells 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212108866 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "2. Stossrichtung des geplanten/geänderten Geschäftsmodells 4",
+              "relationship_id": null,
+              "anchor": "_Toc212108866",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Stossrichtung der geplanten/geänderten Aufbauorganisation 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212108867 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "3. Stossrichtung der geplanten/geänderten Aufbauorganisation 4",
+              "relationship_id": null,
+              "anchor": "_Toc212108867",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Stossrichtung der geplanten/geänderten Ablauforganisation 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212108868 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "4. Stossrichtung der geplanten/geänderten Ablauforganisation 4",
+              "relationship_id": null,
+              "anchor": "_Toc212108868",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Anforderungskatalog 5",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212108869 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "5. Anforderungskatalog 5",
+              "relationship_id": null,
+              "anchor": "_Toc212108869",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "6. Dokument-Protokoll 6",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212108870 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "6. Dokument-Protokoll 6",
+              "relationship_id": null,
+              "anchor": "_Toc212108870",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "end"
+              ],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "part_name": "word/document.xml"
+    }
+  ],
+  "document": {
+    "part_name": "word/document.xml",
+    "text": "OrganisationsanforderungenProjektname / Projektnummer Bearbeitungsdatum 26.01.2026Version 0.1Dokument Status in ArbeitKlassifizierung Nicht klassifiziertAutor/-in …Projektleiter/in ProjektleiterAuftraggeber/in AuftraggeberVerwaltungseinheit VerwaltungseinheitGeschäftsbereich GeschäftsbereichInnenauftragsnr. InnenauftragsnummerProjektnummer ProjektnummerPFCT Bund Link zuDiese Tabelle bei Bedarf anpassen vor Verwendung.\nInhaltsverzeichnisInhaltsverzeichnis0. Einleitung 31. Ausgangslage 42. Stossrichtung des geplanten/geänderten Geschäftsmodells 43. Stossrichtung der geplanten/geänderten Aufbauorganisation 44. Stossrichtung der geplanten/geänderten Ablauforganisation 45. Anforderungskatalog 56. Dokument-Protokoll 6\nEinleitungZiel und Zweck des DokumentsDie Organisationsanforderungen definieren, ob es ein neues oder aktualisiertes Geschäftsmodell braucht und/oder ob die Aufbau- oder Ablauforganisation ändert. Sie beinhalten jene kontextbezogenen, betriebswirtschaftlichen und organisatorischen Anforderungen, die die interne Organisation im Rahmen der künftigen Lösung stärken und der Lösung selbst einen höheren Wirkungsgrad ermöglichen.Sie umfassen neben den klassischen aufbau- und ablauforganisationsspezifischen Aspekten auch die Anforderungen an die Wirtschaftlichkeit, Effektivität und Effizienz sowie die Ziele der Stammorganisation und die aus den Zielen abgeleitete Organisationsstrategie, oftmals manifestiert in einem Geschäftsmodell, das den Rahmen vorgibt, in den die neue Organisation eingepasst werden muss.Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.Kursiver Text im Dokument: Hinweise zur Verwendung oder Beispiele - entsprechend anzupassen oder zu löschen. Referenzierte DokumenteNr.NameNummer / Link[1]#Mitgeltende Unterlagen NameNummer / Link#Definitionen und AbkürzungenAbkürzungBedeutungCHFSchweizer FrankenPTPersonentageAGAuftraggeberPLProjektleiterVorgaben, Methoden und WerkzeugeTitelVorgabe / Methode / WerkzeugVersionProjektmanagementmethodeHERMESAktuell gültige VersionDokumentationMS Office Palette gem. VorlageProzesse / AbläufeMS PowerPoint, VisioBeschaffungGemäss Vorgabe StammorganisationDokumentenablageGemäss Vorgabe StammorganisationReportingGemäss Vorgabe Stammorganisation\nAusgangslage…Wieso sind die organisationsspezifischen Aspekte relevant für die geplante Lösung? Braucht es ein neues, zusätzliches oder geändertes Geschäftsmodell? Ändert sich die Aufbau- und/oder Ablauforganisation, falls ja, wie? In groben Zügen beschrieben, ggfs. Hinweis auf Situationsanalyse.Stossrichtung des geplanten/geänderten Geschäftsmodells…Beispielsweise: Die geplante Lösung bedingt ein weiteres Geschäftsfeld mit eigenem Geschäftsmodell. Es wird ein neues Wertangebot (…) in einem zusätzlichen Kundensegment (…) am Markt angeboten.Stossrichtung der geplanten/geänderten Aufbauorganisation…Beispielsweise: Aufgrund der neuen geschäftsstrategiebezogenen Aspekte ist von einer zentralen Aufbauorganisation zu einer dezentralen Organisation zu wechseln, mit Entscheidungsbefugnissen auf …Stossrichtung der geplanten/geänderten Ablauforganisation…Beispielsweise: Die geplante Lösung bedingt ebenfalls Änderungen bei der Ablauforganisation. Der Beschaffungsprozess kann vereinfacht und beschleunigt werden. Es fallen einzelne Prozessschritte weg oder können zusammengefasst werden … AnforderungskatalogAnforderungen aus organisatorischer Sicht, basierend auf den vorangehenden Kapiteln:Nr.KategorieAnforderungBeschreibungAbnahmekriteriumOA-01OA-01GeschäftsmodellSelf-Service LösungKunden können ihre Produkte selbst bestellen und konfigurierenSelf-Service Funktionalität ist im Geschäftsmodell aufgenommenOA-02AblauforganisationFreigabeprozess für ProduktbestellungenDie Freigabe der Bestellungen wird über den Standardprozess abgewickeltFreigabeprozess ist in den Bestellprozess integriert und abgenommenOA-03AufbauorganisationNotwendige Anpassungen für Aufbau des Self ServiceVerantwortung für die Betreuung des Self Service in die bestehenden Strukturen einführenRollenbeschriebe sind angepasst und abgenommen sowie die Schulungen der Verantwortlichen durchgeführt…Dokument-ProtokollÄnderungskontrolleVersionNameDatumBemerkungen0.1PrüfungVersionNameDatumBemerkungen0.FreigabeVersionNameDatumBemerkungen1.0",
+    "blocks": [
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Organisationsanforderungen",
+        "style_id": "Titel",
+        "style_name": "Title",
+        "bookmarks": [
+          {
+            "name": "VN",
+            "id": "0"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Organisationsanforderungen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektname / Projektnummer",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektname / Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bearbeitungsdatum 26.01.2026",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "field_codes": [
+          "DATE \\* MERGEFORMAT"
+        ],
+        "runs": [
+          {
+            "text": "Bearbeitungsdatum",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Version 0.1",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Version",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "0.1",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Dokument Status in Arbeit",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Dokument Status",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Klassifizierung Nicht klassifiziert",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "bookmarks": [
+          {
+            "name": "Klassifizierung",
+            "id": "1"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Klassifizierung",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Autor/-in …",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Autor/-in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektleiter/in Projektleiter",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektleiter/in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Projektleiter",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Auftraggeber/in Auftraggeber",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Auftraggeber/in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Auftraggeber",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Verwaltungseinheit Verwaltungseinheit",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Verwaltungseinheit",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Verwaltungseinheit",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Geschäftsbereich Geschäftsbereich",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Geschäftsbereich",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Geschäftsbereich",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Innenauftragsnr. Innenauftragsnummer",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Innenauftragsnr.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Innenauftragsnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektnummer Projektnummer",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "PFCT Bund Link zu",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "PFCT Bund",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Link zu",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Diese Tabelle bei Bedarf anpassen vor Verwendung.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Diese",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Tabelle",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "bei Bedarf anpassen vor Verwendung.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Inhaltsverzeichnis",
+        "runs": [
+          {
+            "text": "Inhaltsverzeichnis",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "content_control",
+        "id": "2069071964",
+        "control_kinds": [
+          "docPartObj",
+          "rPr"
+        ],
+        "text": "Inhaltsverzeichnis0. Einleitung 31. Ausgangslage 42. Stossrichtung des geplanten/geänderten Geschäftsmodells 43. Stossrichtung der geplanten/geänderten Aufbauorganisation 44. Stossrichtung der geplanten/geänderten Ablauforganisation 45. Anforderungskatalog 56. Dokument-Protokoll 6",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Inhaltsverzeichnis",
+            "style_id": "Inhaltsverzeichnisberschrift",
+            "style_name": "TOC Heading",
+            "runs": [
+              {
+                "text": "Inhaltsverzeichnis",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "0. Einleitung 3",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "TOC \\o \"1-1\" \\h \\z \\u",
+              "PAGEREF _Toc212108864 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "0. Einleitung 3",
+                "relationship_id": null,
+                "anchor": "_Toc212108864",
+                "target": null,
+                "target_mode": null
+              }
+            ],
+            "runs": [
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "begin"
+                ],
+                "instr_text": []
+              },
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": [
+                  "TOC \\o \"1-1\" \\h \\z \\u"
+                ]
+              },
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "separate"
+                ],
+                "instr_text": []
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "1. Ausgangslage 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212108865 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "1. Ausgangslage 4",
+                "relationship_id": null,
+                "anchor": "_Toc212108865",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "2. Stossrichtung des geplanten/geänderten Geschäftsmodells 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212108866 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "2. Stossrichtung des geplanten/geänderten Geschäftsmodells 4",
+                "relationship_id": null,
+                "anchor": "_Toc212108866",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "3. Stossrichtung der geplanten/geänderten Aufbauorganisation 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212108867 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "3. Stossrichtung der geplanten/geänderten Aufbauorganisation 4",
+                "relationship_id": null,
+                "anchor": "_Toc212108867",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "4. Stossrichtung der geplanten/geänderten Ablauforganisation 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212108868 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "4. Stossrichtung der geplanten/geänderten Ablauforganisation 4",
+                "relationship_id": null,
+                "anchor": "_Toc212108868",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "5. Anforderungskatalog 5",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212108869 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "5. Anforderungskatalog 5",
+                "relationship_id": null,
+                "anchor": "_Toc212108869",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "6. Dokument-Protokoll 6",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212108870 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "6. Dokument-Protokoll 6",
+                "relationship_id": null,
+                "anchor": "_Toc212108870",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "runs": [
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "end"
+                ],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Einleitung",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740558",
+            "id": "2"
+          },
+          {
+            "name": "_Toc212108864",
+            "id": "3"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Einleitung",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Ziel und Zweck des Dokuments",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc476559981",
+            "id": "4"
+          },
+          {
+            "name": "_Toc24614818",
+            "id": "5"
+          },
+          {
+            "name": "_Toc196740559",
+            "id": "6"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Ziel und Zweck des Dokuments",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Organisationsanforderungen definieren, ob es ein neues oder aktualisiertes Geschäftsmodell braucht und/oder ob die Aufbau- oder Ablauforganisation ändert. Sie beinhalten jene kontextbezogenen, betriebswirtschaftlichen und organisatorischen Anforderungen, die die interne Organisation im Rahmen der künftigen Lösung stärken und der Lösung selbst einen höheren Wirkungsgrad ermöglichen.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "bookmarks": [
+          {
+            "name": "_Toc14859779",
+            "id": "7"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Die Organisationsanforderungen definieren, ob es ein neues oder aktualisiertes Geschäftsmodell braucht",
+            "bold": false,
+            "italic": true,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "und/",
+            "bold": false,
+            "italic": true,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "oder ob die Aufbau- oder Ablauforganisation ändert. Sie beinhalten jene kontextbezogenen, betriebswirtschaftlichen und organisatorischen Anforderungen, die die interne Organisation im Rahmen der künftigen Lösung stärken und der Lösung selbst einen höheren Wirkungsgrad ermöglichen.",
+            "bold": false,
+            "italic": true,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sie umfassen neben den klassischen aufbau- und ablauforganisationsspezifischen Aspekten auch die Anforderungen an die Wirtschaftlichkeit, Effektivität und Effizienz sowie die Ziele der Stammorganisation und die aus den Zielen abgeleitete Organisationsstrategie, oftmals manifestiert in einem Geschäftsmodell, das den Rahmen vorgibt, in den die neue Organisation eingepasst werden muss.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Sie umfassen neben den klassischen aufbau- und ablauforganisationsspezifischen Aspekten auch die Anforderungen an die Wirtschaftlichkeit, Effektivität und Effizienz sowie die Ziele der Stammorganisation und die aus den Zielen abgeleitete Organisationsstrategie, oftmals manifestiert in einem Geschäftsmodell, das den Rahmen vorgibt, in den die neue Organisation eingepasst werden muss.",
+            "bold": false,
+            "italic": true,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.",
+        "runs": [
+          {
+            "text": "Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kursiver Text im Dokument: Hinweise zur Verwendung oder Beispiele - entsprechend anzupassen oder zu löschen.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Kursiver Text im Dokument: Hinweise zur Verwendung oder Beispiele - entsprechend anzupassen oder zu löschen.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Referenzierte Dokumente",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740560",
+            "id": "8"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Referenzierte Dokumente",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Nr.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nr.",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nr.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nummer / Link",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nummer / Link",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nummer / Link",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "[1]",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "[1]",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "[1]",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "#",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "#",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "#",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "Nr.NameNummer / Link[1]#"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mitgeltende Unterlagen",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740561",
+            "id": "9"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Mitgeltende Unterlagen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nummer / Link",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nummer / Link",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nummer / Link",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "#",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "#",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "#",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "NameNummer / Link#"
+      },
+      {
+        "type": "paragraph",
+        "text": "Definitionen und Abkürzungen",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740562",
+            "id": "10"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Definitionen und Abkürzungen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Abkürzung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Abkürzung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Abkürzung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bedeutung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bedeutung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bedeutung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "CHF",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "CHF",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "CHF",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Schweizer Franken",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Schweizer Franken",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Schweizer Franken",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "PT",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PT",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "PT",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Personentage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Personentage",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Personentage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "AG",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "AG",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "AG",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Auftraggeber",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Auftraggeber",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Auftraggeber",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "PL",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PL",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "PL",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Projektleiter",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektleiter",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Projektleiter",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "AbkürzungBedeutungCHFSchweizer FrankenPTPersonentageAGAuftraggeberPLProjektleiter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vorgaben, Methoden und Werkzeuge",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740563",
+            "id": "11"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Vorgaben, Methoden und Werkzeuge",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Titel",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titel",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Titel",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Vorgabe / Methode / Werkzeug",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Vorgabe / Methode / Werkzeug",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Vorgabe / Methode / Werkzeug",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Projektmanagementmethode",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektmanagementmethode",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Projektmanagementmethode",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "HERMES",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "HERMES",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "hyperlinks": [
+                    {
+                      "text": "HERMES",
+                      "relationship_id": "rId9",
+                      "anchor": null,
+                      "target": "http://www.hermes.admin.ch/",
+                      "target_mode": "External"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Aktuell gültige Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aktuell gültige Version",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Aktuell gültige Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Dokumentation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dokumentation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Dokumentation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MS Office Palette gem. Vorlage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MS Office Palette gem. Vorlage",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "MS Office Palette gem. Vorlage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Prozesse / Abläufe",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prozesse / Abläufe",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Prozesse / Abläufe",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MS PowerPoint, Visio",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MS PowerPoint, Visio",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "MS PowerPoint, Visio",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Beschaffung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Beschaffung",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Beschaffung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Dokumentenablage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dokumentenablage",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Dokumentenablage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Reporting",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Reporting",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Reporting",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "TitelVorgabe / Methode / WerkzeugVersionProjektmanagementmethodeHERMESAktuell gültige VersionDokumentationMS Office Palette gem. VorlageProzesse / AbläufeMS PowerPoint, VisioBeschaffungGemäss Vorgabe StammorganisationDokumentenablageGemäss Vorgabe StammorganisationReportingGemäss Vorgabe Stammorganisation"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ausgangslage",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc98599071",
+            "id": "12"
+          },
+          {
+            "name": "_Toc212108865",
+            "id": "13"
+          },
+          {
+            "name": "_Toc196740564",
+            "id": "14"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Ausgangslage",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Wieso sind die organisationsspezifischen Aspekte relevant für die geplante Lösung? Braucht es ein neues, zusätzliches oder geändertes Geschäftsmodell? Ändert sich die Aufbau- und/oder Ablauforganisation, falls ja, wie? In groben Zügen beschrieben, ggfs. Hinweis auf Situationsanalyse.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Wieso sind die organisationsspezifischen Aspekte relevant für die geplante Lösung?",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Braucht es ein neues, zusätzliches oder geändertes Geschäftsmodell? Änder",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "t sich die Aufbau",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "- und/oder Ablauf",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "organisation, falls ja, wie",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "?",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "I",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "n groben Zügen beschrieben, g",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "gfs. Hinweis auf Situationsanalyse",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Stossrichtung des geplanten/geänderten Geschäftsmodells",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc208424280",
+            "id": "15"
+          },
+          {
+            "name": "_Toc209805745",
+            "id": "16"
+          },
+          {
+            "name": "_Toc98599072",
+            "id": "17"
+          },
+          {
+            "name": "_Toc212108866",
+            "id": "18"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Stossrichtung des geplanten/geänderten Geschäftsmodells",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Beispielsweise: Die geplante Lösung bedingt ein weiteres Geschäftsfeld mit eigenem Geschäftsmodell. Es wird ein neues Wertangebot (…) in einem zusätzlichen Kundensegment (…) am Markt angeboten.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Beispielsweise: Die geplante Lösung bedingt ein weiteres Geschäftsfeld mit eigenem Geschäftsmodell. Es wird ein neues Wertangebot (…) in einem zusätzlichen Kundensegment (…) am Markt angeboten.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Stossrichtung der geplanten/geänderten Aufbauorganisation",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc208424294",
+            "id": "19"
+          },
+          {
+            "name": "_Toc209805759",
+            "id": "20"
+          },
+          {
+            "name": "_Toc98599073",
+            "id": "21"
+          },
+          {
+            "name": "_Toc212108867",
+            "id": "22"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Stossrichtung der geplanten/geänderten Aufbauorganisation",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Beispielsweise: Aufgrund der neuen geschäftsstrategiebezogenen Aspekte ist von einer zentralen Aufbauorganisation zu einer dezentralen Organisation zu wechseln, mit Entscheidungsbefugnissen auf …",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "B",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "eispielsweise",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": ":",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "A",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "ufgrund der neuen geschäftsstrategiebezogenen Aspekte ist von einer zentralen Aufbauorganisation zu einer dezentralen Organisation zu wechseln, mit Entscheidungsbefugnissen auf",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Stossrichtung der geplanten/geänderten Ablauforganisation",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc208424299",
+            "id": "23"
+          },
+          {
+            "name": "_Toc209805764",
+            "id": "24"
+          },
+          {
+            "name": "_Toc98599074",
+            "id": "25"
+          },
+          {
+            "name": "_Toc212108868",
+            "id": "26"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Stossrichtung der geplanten/geänderten Ablauforganisation",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Beispielsweise: Die geplante Lösung bedingt ebenfalls Änderungen bei der Ablauforganisation. Der Beschaffungsprozess kann vereinfacht und beschleunigt werden. Es fallen einzelne Prozessschritte weg oder können zusammengefasst werden …",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Beispielsweise:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Die geplante Lösung bedingt ebenfalls Änderungen bei der Ablauforganisation. Der Beschaffungsprozess kann vereinfacht und beschleunigt werden. Es fallen einzelne Prozessschritte weg oder können zusammengefasst werden …",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Anforderungskatalog",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc209804683",
+            "id": "27"
+          },
+          {
+            "name": "_Toc209804684",
+            "id": "28"
+          },
+          {
+            "name": "_Toc209804685",
+            "id": "29"
+          },
+          {
+            "name": "_Toc209804686",
+            "id": "30"
+          },
+          {
+            "name": "_Toc209804687",
+            "id": "31"
+          },
+          {
+            "name": "_Toc209804688",
+            "id": "32"
+          },
+          {
+            "name": "_Toc209804690",
+            "id": "33"
+          },
+          {
+            "name": "_Toc209804691",
+            "id": "34"
+          },
+          {
+            "name": "_Toc209804692",
+            "id": "35"
+          },
+          {
+            "name": "_Toc209804694",
+            "id": "36"
+          },
+          {
+            "name": "_Toc209804695",
+            "id": "37"
+          },
+          {
+            "name": "_Toc209804696",
+            "id": "38"
+          },
+          {
+            "name": "_Toc209804698",
+            "id": "39"
+          },
+          {
+            "name": "_Toc209804699",
+            "id": "40"
+          },
+          {
+            "name": "_Toc209804700",
+            "id": "41"
+          },
+          {
+            "name": "_Toc209804702",
+            "id": "42"
+          },
+          {
+            "name": "_Toc209804703",
+            "id": "43"
+          },
+          {
+            "name": "_Toc209804704",
+            "id": "44"
+          },
+          {
+            "name": "_Toc209804706",
+            "id": "45"
+          },
+          {
+            "name": "_Toc209804707",
+            "id": "46"
+          },
+          {
+            "name": "_Toc209804708",
+            "id": "47"
+          },
+          {
+            "name": "_Toc209804709",
+            "id": "48"
+          },
+          {
+            "name": "_Toc209804710",
+            "id": "49"
+          },
+          {
+            "name": "_Toc209804711",
+            "id": "50"
+          },
+          {
+            "name": "_Toc209804712",
+            "id": "51"
+          },
+          {
+            "name": "_Toc209804713",
+            "id": "52"
+          },
+          {
+            "name": "_Toc209804715",
+            "id": "53"
+          },
+          {
+            "name": "_Toc209804716",
+            "id": "54"
+          },
+          {
+            "name": "_Toc209804717",
+            "id": "55"
+          },
+          {
+            "name": "_Toc209804718",
+            "id": "56"
+          },
+          {
+            "name": "_Toc209804719",
+            "id": "57"
+          },
+          {
+            "name": "_Toc209804721",
+            "id": "58"
+          },
+          {
+            "name": "_Toc209804722",
+            "id": "59"
+          },
+          {
+            "name": "_Toc209804723",
+            "id": "60"
+          },
+          {
+            "name": "_Toc209804724",
+            "id": "61"
+          },
+          {
+            "name": "_Toc209804725",
+            "id": "62"
+          },
+          {
+            "name": "_Toc209804727",
+            "id": "63"
+          },
+          {
+            "name": "_Toc209804728",
+            "id": "64"
+          },
+          {
+            "name": "_Toc209804729",
+            "id": "65"
+          },
+          {
+            "name": "_Toc209804730",
+            "id": "66"
+          },
+          {
+            "name": "_Toc209804731",
+            "id": "67"
+          },
+          {
+            "name": "_Toc209804733",
+            "id": "68"
+          },
+          {
+            "name": "_Toc209804734",
+            "id": "69"
+          },
+          {
+            "name": "_Toc209804735",
+            "id": "70"
+          },
+          {
+            "name": "_Toc209804736",
+            "id": "71"
+          },
+          {
+            "name": "_Toc209804737",
+            "id": "72"
+          },
+          {
+            "name": "_Toc209804739",
+            "id": "73"
+          },
+          {
+            "name": "_Toc209804740",
+            "id": "74"
+          },
+          {
+            "name": "_Toc209804741",
+            "id": "75"
+          },
+          {
+            "name": "_Toc209804742",
+            "id": "76"
+          },
+          {
+            "name": "_Toc209804743",
+            "id": "77"
+          },
+          {
+            "name": "_Toc209804745",
+            "id": "78"
+          },
+          {
+            "name": "_Toc209804746",
+            "id": "79"
+          },
+          {
+            "name": "_Toc209804747",
+            "id": "80"
+          },
+          {
+            "name": "_Toc209804748",
+            "id": "81"
+          },
+          {
+            "name": "_Toc209804749",
+            "id": "82"
+          },
+          {
+            "name": "_Toc209804751",
+            "id": "83"
+          },
+          {
+            "name": "_Toc209804752",
+            "id": "84"
+          },
+          {
+            "name": "_Toc209804753",
+            "id": "85"
+          },
+          {
+            "name": "_Toc209804754",
+            "id": "86"
+          },
+          {
+            "name": "_Toc209804755",
+            "id": "87"
+          },
+          {
+            "name": "_Toc209805766",
+            "id": "88"
+          },
+          {
+            "name": "_Toc209805767",
+            "id": "89"
+          },
+          {
+            "name": "_Toc209805768",
+            "id": "90"
+          },
+          {
+            "name": "_Toc209804758",
+            "id": "91"
+          },
+          {
+            "name": "_Toc212108869",
+            "id": "92"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Anforderungskatalog",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Anforderungen aus organisatorischer Sicht, basierend auf den vorangehenden Kapiteln:",
+        "runs": [
+          {
+            "text": "Anforderungen aus organisatorischer Sicht, basierend auf den vorangehenden Kapiteln:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Nr.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nr.",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nr.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Kategorie",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Kategorie",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Kategorie",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Anforderung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Anforderung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Anforderung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Beschreibung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Beschreibung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Beschreibung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Abnahmekriterium",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Abnahmekriterium",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Abnahmekriterium",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "OA-01",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "OA-01",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "OA-01",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "OA-01",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "OA-01",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "OA-01",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Geschäftsmodell",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Geschäftsmodell",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Geschäftsmodell",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Self-Service Lösung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Self-Service Lösung",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Self-Service Lösung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Kunden können ihre Produkte selbst bestellen und konfigurieren",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Kunden können ihre Produkte selbst bestellen und konfigurieren",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Kunden können ihre Produkte selbst bestellen und konfigurieren",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Self-Service Funktionalität ist im Geschäftsmodell aufgenommen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Self-Service Funktionalität ist im Geschäftsmodell aufgenommen",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Self-Service Funktionalität ist im Geschäftsmodell aufgenommen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "OA-02",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "OA-02",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "OA-",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "0",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "2",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Ablauforganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Ablauforganisation",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Ablauforganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Freigabeprozess für Produktbestellungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Freigabeprozess für Produktbestellungen",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Freigabeprozess für Produktbestellungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Die Freigabe der Bestellungen wird über den Standardprozess abgewickelt",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Die Freigabe der Bestellungen wird über den Standardprozess abgewickelt",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Die Freigabe der Bestellungen wird über den Standardprozess abgewickelt",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Freigabeprozess ist in den Bestellprozess integriert und abgenommen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Freigabeprozess ist in den Bestellprozess integriert und abgenommen",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Freigabeprozess ist in den Bestellprozess integriert und abgenommen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "OA-03",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "OA-03",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "OA-",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "0",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "3",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Aufbauorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aufbauorganisation",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Aufbauorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Notwendige Anpassungen für Aufbau des Self Service",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Notwendige Anpassungen für Aufbau des Self Service",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Notwendige Anpassungen für Aufbau des Self Service",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Verantwortung für die Betreuung des Self Service in die bestehenden Strukturen einführen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Verantwortung für die Betreuung des Self Service in die bestehenden Strukturen einführen",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Verantwortung für die Betreuung des Self Service in die bestehenden Strukturen einführen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Rollenbeschriebe sind angepasst und abgenommen sowie die Schulungen der Verantwortlichen durchgeführt",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Rollenbeschriebe sind angepasst und abgenommen sowie die Schulungen der Verantwortlichen durchgeführt",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Rollenbeschriebe sind angepasst und abgenommen sowie die Schulungen der Verantwortlichen durchgeführt",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "Nr.KategorieAnforderungBeschreibungAbnahmekriteriumOA-01OA-01GeschäftsmodellSelf-Service LösungKunden können ihre Produkte selbst bestellen und konfigurierenSelf-Service Funktionalität ist im Geschäftsmodell aufgenommenOA-02AblauforganisationFreigabeprozess für ProduktbestellungenDie Freigabe der Bestellungen wird über den Standardprozess abgewickeltFreigabeprozess ist in den Bestellprozess integriert und abgenommenOA-03AufbauorganisationNotwendige Anpassungen für Aufbau des Self ServiceVerantwortung für die Betreuung des Self Service in die bestehenden Strukturen einführenRollenbeschriebe sind angepasst und abgenommen sowie die Schulungen der Verantwortlichen durchgeführt…"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dokument-Protokoll",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc209805770",
+            "id": "93"
+          },
+          {
+            "name": "_Toc208424301",
+            "id": "94"
+          },
+          {
+            "name": "_Toc209805771",
+            "id": "95"
+          },
+          {
+            "name": "_Toc209805772",
+            "id": "96"
+          },
+          {
+            "name": "_Toc209805773",
+            "id": "97"
+          },
+          {
+            "name": "_Toc209805774",
+            "id": "98"
+          },
+          {
+            "name": "_Toc14859780",
+            "id": "99"
+          },
+          {
+            "name": "_Toc212108870",
+            "id": "100"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Dokument-Protokoll",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Änderungskontrolle",
+        "runs": [
+          {
+            "text": "Änderungskontrolle",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "0.1",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "0.1",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "0.1",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen0.1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prüfung",
+        "runs": [
+          {
+            "text": "Prüfung",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "0.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "0.",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "0.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen0."
+      },
+      {
+        "type": "paragraph",
+        "text": "Freigabe",
+        "runs": [
+          {
+            "text": "Freigabe",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "1.0",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "1.0",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "1.0",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen1.0"
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "headers": [
+    {
+      "part_name": "word/header1.xml",
+      "text": "OrganisationsanforderungenProjektname / Projektnummer",
+      "blocks": [
+        {
+          "type": "table",
+          "style_id": "TabelleohneRahmen",
+          "style_name": "Tabelle ohne Rahmen",
+          "rows": [
+            [
+              {
+                "text": "OrganisationsanforderungenProjektname / Projektnummer",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Organisationsanforderungen",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Organisationsanforderungen",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Projektname / Projektnummer",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Projektname / Projektnummer",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "OrganisationsanforderungenProjektname / Projektnummer"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/header2.xml",
+      "text": "OrganisationsanforderungenProjektname / Projektnummer",
+      "blocks": [
+        {
+          "type": "table",
+          "style_id": "TabelleohneRahmen",
+          "style_name": "Tabelle ohne Rahmen",
+          "rows": [
+            [
+              {
+                "text": "OrganisationsanforderungenProjektname / Projektnummer",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Organisationsanforderungen",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Organisationsanforderungen",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Projektname / Projektnummer",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Projektname / Projektnummer",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "OrganisationsanforderungenProjektname / Projektnummer"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/header3.xml",
+      "text": "VerwaltungseinheitGeschäftsbereich",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        },
+        {
+          "type": "table",
+          "style_id": "Tabellenraster",
+          "style_name": "Table Grid",
+          "rows": [
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "restart",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "Verwaltungseinheit",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Verwaltungseinheit",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header",
+                    "runs": [
+                      {
+                        "text": "Verwaltungseinheit",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "Geschäftsbereich",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Geschäftsbereich",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header",
+                    "runs": [
+                      {
+                        "text": "Geschäftsbereich",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "VerwaltungseinheitGeschäftsbereich"
+        },
+        {
+          "type": "paragraph"
+        }
+      ],
+      "field_codes": []
+    }
+  ],
+  "footers": [
+    {
+      "part_name": "word/footer1.xml",
+      "text": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Fuzeile",
+          "style_name": "footer"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "text": "organisationsanforderungen.dotx9/99/99/99/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "organisationsanforderungen.dotx9/99/99/99/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "9/99/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            },
+            {
+              "text": "9/99/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "text": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Fuzeile",
+          "style_name": "footer"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "text": "organisationsanforderungen.dotx8/98/98/98/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "organisationsanforderungen.dotx8/98/98/98/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "8/98/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            },
+            {
+              "text": "8/98/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    },
+    {
+      "part_name": "word/footer5.xml",
+      "text": "organisationsanforderungen.docx9/99/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "organisationsanforderungen.docx9/99/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "9/99/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    }
+  ],
+  "glossary": {
+    "part_name": "word/glossary/document.xml",
+    "text": "Status auswählenKlassifizierung auswählen",
+    "doc_parts": [
+      {
+        "name": "448B691DD16344A4886C2352182DFBEE",
+        "category": "Allgemein",
+        "gallery": null,
+        "description": null,
+        "text": "Status auswählen",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Status auswählen",
+            "style_id": "448B691DD16344A4886C2352182DFBEE",
+            "runs": [
+              {
+                "text": "Status auswählen",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "352FFCA327FC4F39B58E3F2DD71BEA4E",
+        "category": "Allgemein",
+        "gallery": null,
+        "description": null,
+        "text": "Klassifizierung auswählen",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Klassifizierung auswählen",
+            "style_id": "352FFCA327FC4F39B58E3F2DD71BEA4E",
+            "runs": [
+              {
+                "text": "Klassifizierung auswählen",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "custom_xml": [
+    {
+      "part_name": "customXml/item1.xml",
+      "root_element": "Sources",
+      "text": "Authr Book {BA01FD2C-EDFC-4D13-8F46-679005D5D2FB} Autor Anton Titel Jahr Ort Verleger 1"
+    },
+    {
+      "part_name": "customXml/itemProps1.xml",
+      "root_element": "datastoreItem",
+      "text": ""
+    }
+  ],
+  "footnotes": [],
+  "endnotes": []
+}

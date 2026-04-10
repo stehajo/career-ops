@@ -1,0 +1,70 @@
+file_name,source_path_in_archive,first_text_block,first_heading,body_paragraph_count,body_table_count,content_control_count,field_code_count,header_count,footer_count,glossary_doc_part_count,footnote_count,endnote_count
+abnahmeprotokoll.dotx,vorlagen/abnahmeprotokoll.dotx,Abnahmeprotokoll,,232,12,6,26,3,4,2,0,0
+aenderungsantrag.dotx,vorlagen/aenderungsantrag.dotx,"Änderungsantrag: ""001""",,158,8,3,10,3,3,2,0,0
+aenderungsstatusliste.dotx,vorlagen/aenderungsstatusliste.dotx,Änderungsstatusliste,,200,9,3,21,3,4,2,0,0
+angebot.dotx,vorlagen/angebot.dotx,Angebot,,118,7,3,10,3,3,2,0,0
+angebotsprotokoll.dotx,vorlagen/angebotsprotokoll.dotx,Angebotsprotokoll,,156,8,3,14,3,3,2,0,0
+anwendungshandbuch.dotx,vorlagen/anwendungshandbuch.dotx,Anwendungshandbuch,,198,10,3,13,3,3,2,0,0
+arbeitsauftrag.dotx,vorlagen/arbeitsauftrag.dotx,Arbeitsauftrag,,367,13,3,27,3,4,2,0,0
+ausschreibungsunterlagen.dotx,vorlagen/ausschreibungsunterlagen.dotx,Ausschreibungsunterlagen,,309,13,3,16,3,3,2,0,0
+beschaffungsanalyse.dotx,vorlagen/beschaffungsanalyse.dotx,Beschaffungsanalyse,,446,21,3,51,3,4,2,0,0
+betriebshandbuch.dotx,vorlagen/betriebshandbuch.dotx,Betriebshandbuch,,289,11,3,31,3,5,2,0,0
+betriebskonzept.dotx,vorlagen/betriebskonzept.dotx,Betriebskonzept,,406,17,3,16,3,3,2,0,0
+checkliste-abnahme-migration.dotx,vorlagen/checkliste-abnahme-migration.dotx,Checkliste Abnahme Migration,,261,10,17,23,3,4,16,0,0
+checkliste-abnahme.dotx,vorlagen/checkliste-abnahme.dotx,Checkliste Abnahme,,254,10,16,23,3,4,15,0,0
+checkliste-ausschreibung.dotx,vorlagen/checkliste-ausschreibung.dotx,Checkliste Ausschreibung,,254,10,16,23,3,4,15,0,0
+checkliste-betriebsaufnahme.dotx,vorlagen/checkliste-betriebsaufnahme.dotx,Checkliste Betriebsaufnahme,,289,10,20,23,3,4,19,0,0
+checkliste-durchfuehrungsfreigabe.dotx,vorlagen/checkliste-durchfuehrungsfreigabe.dotx,Checkliste Durchführungsfreigabe,,362,10,31,23,3,4,30,0,0
+checkliste-isds-konzept.dotx,vorlagen/checkliste-isds-konzept.dotx,Checkliste ISDS-Konzept,,247,10,15,23,3,4,14,0,0
+checkliste-loesungsarchitektur.dotx,vorlagen/checkliste-loesungsarchitektur.dotx,Checkliste Lösungsarchitektur,,289,10,21,23,3,4,20,0,0
+checkliste-phasenfreigabe-abschluss.dotx,vorlagen/checkliste-phasenfreigabe-abschluss.dotx,Checkliste Phasenfreigabe Abschluss,,261,10,17,23,3,4,16,0,0
+checkliste-phasenfreigabe.dotx,vorlagen/checkliste-phasenfreigabe.dotx,Checkliste Phasenfreigabe,,578,13,58,27,3,4,57,0,0
+checkliste-produktkonzept.dotx,vorlagen/checkliste-produktkonzept.dotx,Checkliste Produktkonzept,,261,10,17,23,3,4,16,0,0
+checkliste-projektabbruch.dotx,vorlagen/checkliste-projektabbruch.dotx,Checkliste Projektabbruch,,317,10,25,23,3,4,24,0,0
+checkliste-projektabschluss.dotx,vorlagen/checkliste-projektabschluss.dotx,Checkliste Projektabschluss,,305,10,23,24,3,4,22,0,0
+checkliste-projektinitialisierungsfreigabe.dotx,vorlagen/checkliste-projektinitialisierungsfreigabe.dotx,Checkliste Projektinitialisierungsfreigabe,,246,10,15,23,3,4,14,0,0
+checkliste-releasefreigabe.dotx,vorlagen/checkliste-releasefreigabe.dotx,Checkliste Releasefreigabe,,338,10,28,23,3,4,27,0,0
+checkliste-vorabnahme.dotx,vorlagen/checkliste-vorabnahme.dotx,Checkliste Vorabnahme,,289,10,21,23,3,4,20,0,0
+checkliste-weiteres-vorgehen.dotx,vorlagen/checkliste-weiteres-vorgehen.dotx,Checkliste Weiteres Vorgehen,,318,10,24,23,3,4,23,0,0
+checkliste-zuschlag.dotx,vorlagen/checkliste-zuschlag.dotx,Checkliste Zuschlag,,289,10,21,23,3,4,20,0,0
+detailspezifikation.dotx,vorlagen/detailspezifikation.dotx,Detailspezifikation,,149,7,3,25,3,3,2,0,0
+durchfuehrungsauftrag.dotx,vorlagen/durchfuehrungsauftrag.dotx,Durchführungsauftrag,,351,14,3,54,3,7,2,0,0
+einfuehrungskonzept.dotx,vorlagen/einfuehrungskonzept.dotx,Einführungskonzept,,424,20,23,17,3,3,20,0,0
+evaluationsbericht.dotx,vorlagen/evaluationsbericht.dotx,Evaluationsbericht,,220,10,3,25,3,3,2,0,0
+geschaeftsmodellbeschreibung.dotx,vorlagen/geschaeftsmodellbeschreibung.dotx,Geschäftsmodellbeschreibung,,406,24,3,19,3,3,2,0,0
+integrations-und-installationsanleitung.dotx,vorlagen/integrations-und-installationsanleitung.dotx,Integrations- und Installationsanleitung,,266,9,3,74,3,8,2,0,0
+integrationskonzept.dotx,vorlagen/integrationskonzept.dotx,Integrationskonzept,,312,13,3,29,3,4,2,0,0
+liste-projektentscheide-fuehrung.dotx,vorlagen/liste-projektentscheide-fuehrung.dotx,Liste Projektentscheide Führung,,225,8,3,20,3,4,2,0,0
+liste-projektentscheide-steuerung.dotx,vorlagen/liste-projektentscheide-steuerung.dotx,Liste Projektentscheide Steuerung,,257,8,3,20,3,4,2,0,0
+loesungsanforderungen.dotx,vorlagen/loesungsanforderungen.dotx,Lösungsanforderungen,,185,9,3,21,3,4,2,0,0
+loesungsarchitektur.dotx,vorlagen/loesungsarchitektur.dotx,Lösungsarchitektur,,264,12,3,31,3,4,2,0,0
+migrationskonzept.dotx,vorlagen/migrationskonzept.dotx,Migrationskonzept,,309,15,3,29,3,4,2,0,0
+offertanfrage.dotx,vorlagen/offertanfrage.dotx,Offertanfrage,,200,11,3,16,3,3,2,0,0
+organisationsanforderungen.dotx,vorlagen/organisationsanforderungen.dotx,Organisationsanforderungen,,169,8,3,32,3,5,2,0,0
+organisationsbeschreibung.dotx,vorlagen/organisationsbeschreibung.dotx,Organisationsbeschreibung,,162,10,3,13,3,3,2,0,0
+organisationskonzept.dotx,vorlagen/organisationskonzept.dotx,Organisationskonzept,,280,11,2,34,3,5,2,0,0
+phasenbericht.dotx,vorlagen/phasenbericht.dotx,Phasenbericht,,338,12,11,29,3,4,10,0,0
+produktdokumentation.dotx,vorlagen/produktdokumentation.dotx,Produktdokumentation,,123,7,3,12,3,3,2,0,0
+produktkonzept.dotx,vorlagen/produktkonzept.dotx,Produktkonzept,,165,8,3,16,3,3,2,0,0
+projekterfahrungen.dotx,vorlagen/projekterfahrungen.dotx,Projekterfahrungen,,159,8,3,20,3,4,2,0,0
+projektinitialisierungsauftrag.dotx,vorlagen/projektinitialisierungsauftrag.dotx,Projektinitialisierungsauftrag,,439,16,21,43,3,6,20,3,0
+projektmanagementplan.dotx,vorlagen/projektmanagementplan.dotx,Projektmanagementplan,,944,28,3,49,3,4,2,0,0
+projektschlussbeurteilung.dotx,vorlagen/projektschlussbeurteilung.dotx,Projektschlussbeurteilung,,428,13,11,47,3,7,10,0,0
+projektstatusbericht.dotx,vorlagen/projektstatusbericht.dotx,Projektstatusbericht,,612,18,11,45,3,7,10,0,0
+protokoll.dotx,vorlagen/protokoll.dotx,Protokoll,,263,5,0,15,3,4,0,0,0
+prototypdokumentation.dotx,vorlagen/prototypdokumentation.dotx,Prototypdokumentation,,239,11,3,31,3,4,2,0,0
+prozessbeschreibung.dotx,vorlagen/prozessbeschreibung.dotx,Prozessbeschreibung,,280,10,3,26,3,4,2,0,0
+pruefprotokoll.dotx,vorlagen/pruefprotokoll.dotx,Prüfprotokoll,,171,8,3,20,3,4,2,0,0
+publikation.dotx,vorlagen/publikation.dotx,Publikation,,151,9,3,13,3,3,2,0,0
+qs-und-risikobericht.dotx,vorlagen/qs-und-risikobericht.dotx,QS- und Risikobericht,,199,8,3,25,3,4,2,0,0
+rechtsgrundlagenanalyse.dotx,vorlagen/rechtsgrundlagenanalyse.dotx,Rechtsgrundlagenanalyse,,230,12,3,26,3,4,2,0,0
+releasebericht.dotx,vorlagen/releasebericht.dotx,Releasebericht,,301,12,3,27,3,4,2,0,0
+service-level-agreement.dotx,vorlagen/service-level-agreement.dotx,Service Level Agreement,,396,14,3,29,3,3,2,0,0
+situationsanalyse.dotx,vorlagen/situationsanalyse.dotx,Situationsanalyse,,293,16,3,27,3,3,2,0,0
+stakeholderinteressen.dotx,vorlagen/stakeholderinteressen.dotx,Stakeholderinteressen,,210,9,3,22,3,4,2,0,0
+stakeholderliste.dotx,vorlagen/stakeholderliste.dotx,Stakeholderliste,,161,8,3,20,3,4,2,0,0
+studie.dotx,vorlagen/studie.dotx,Studie,,869,27,60,86,3,10,59,0,0
+systemkonzept.dotx,vorlagen/systemkonzept.dotx,Systemkonzept,Beschreibung,220,10,3,14,3,3,2,0,0
+testkonzept.dotx,vorlagen/testkonzept.dotx,Testkonzept,,354,16,3,20,3,3,2,0,0
+testprotokoll.dotx,vorlagen/testprotokoll.dotx,Testprotokoll,,152,8,3,28,3,5,2,0,0
+vereinbarung.dotx,vorlagen/vereinbarung.dotx,Vereinbarung,,197,8,3,25,3,3,2,0,0

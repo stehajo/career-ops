@@ -1,0 +1,3966 @@
+{
+  "source_path_in_archive": "vorlagen/publikation.dotx",
+  "source_file_name": "publikation.dotx",
+  "source_format": "DOTX",
+  "extracted_at_utc": "2026-04-07T21:31:25.395708+00:00",
+  "document_properties": {
+    "core": {
+      "title": "",
+      "subject": "",
+      "creator": "",
+      "keywords": "",
+      "description": "",
+      "lastModifiedBy": "",
+      "revision": "1",
+      "created": "2026-01-26T10:30:00Z",
+      "modified": "2026-01-26T10:30:00Z",
+      "category": ""
+    },
+    "app": {
+      "Template": "",
+      "TotalTime": "0",
+      "Pages": "5",
+      "Words": "348",
+      "Characters": "2693",
+      "Application": "Microsoft Office Word",
+      "DocSecurity": "0",
+      "Lines": "244",
+      "Paragraphs": "168",
+      "ScaleCrop": "false",
+      "Manager": "",
+      "Company": "",
+      "LinksUpToDate": "false",
+      "CharactersWithSpaces": "2873",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0000"
+    },
+    "custom": {}
+  },
+  "settings": {
+    "update_fields_on_open": false,
+    "track_revisions": false,
+    "default_tab_stop": "708",
+    "zoom_percent": "100"
+  },
+  "package_parts": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "customXml/_rels/item1.xml.rels",
+    "customXml/item1.xml",
+    "customXml/itemProps1.xml",
+    "docProps/app.xml",
+    "docProps/core.xml",
+    "word/_rels/document.xml.rels",
+    "word/_rels/header3.xml.rels",
+    "word/customizations.xml",
+    "word/document.xml",
+    "word/endnotes.xml",
+    "word/fontTable.xml",
+    "word/footer1.xml",
+    "word/footer2.xml",
+    "word/footer3.xml",
+    "word/footnotes.xml",
+    "word/glossary/_rels/document.xml.rels",
+    "word/glossary/document.xml",
+    "word/glossary/fontTable.xml",
+    "word/glossary/numbering.xml",
+    "word/glossary/settings.xml",
+    "word/glossary/styles.xml",
+    "word/glossary/webSettings.xml",
+    "word/header1.xml",
+    "word/header2.xml",
+    "word/header3.xml",
+    "word/media/image_rId1_header3.png",
+    "word/numbering.xml",
+    "word/settings.xml",
+    "word/styles.xml",
+    "word/theme/theme1.xml",
+    "word/webSettings.xml"
+  ],
+  "summary": {
+    "body_text_characters": 2352,
+    "body_paragraph_count": 151,
+    "body_table_count": 9,
+    "section_count": 1,
+    "header_count": 3,
+    "footer_count": 3,
+    "content_control_count": 3,
+    "field_code_count": 13,
+    "glossary_present": true,
+    "glossary_doc_part_count": 2,
+    "footnote_count": 0,
+    "endnote_count": 0
+  },
+  "headings": [],
+  "used_styles": {
+    "paragraph_styles": [
+      {
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "style_id": "HTabBeispiel85ptF",
+        "style_name": "H_Tab_Beispiel 8.5pt (F)"
+      },
+      {
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "style_id": "HTabTit65pt",
+        "style_name": "H_Tab_Tit 6.5 pt"
+      },
+      {
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt"
+      },
+      {
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt"
+      },
+      {
+        "style_id": "Inhaltsverzeichnisberschrift",
+        "style_name": "TOC Heading"
+      },
+      {
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "style_id": "Titel",
+        "style_name": "Title"
+      },
+      {
+        "style_id": "Verzeichnis1",
+        "style_name": "toc 1"
+      }
+    ],
+    "table_styles": [
+      {
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1"
+      }
+    ]
+  },
+  "detected_placeholders": [
+    {
+      "kind": "content_control_alias",
+      "value": "Dokument Status"
+    },
+    {
+      "kind": "content_control_tag",
+      "value": "Dokument Status"
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "in Arbeit",
+        "value": "in Arbeit"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "geprüft",
+        "value": "geprüft"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "fertiggestellt",
+        "value": "fertiggestellt"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "abgenommen",
+        "value": "abgenommen"
+      }
+    },
+    {
+      "kind": "content_control_placeholder_doc_part",
+      "value": "448B691DD16344A4886C2352182DFBEE"
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "Nicht klassifiziert",
+        "value": "Nicht klassifiziert"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "INTERN",
+        "value": "INTERN"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "VERTRAULICH",
+        "value": "VERTRAULICH"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "GEHEIM",
+        "value": "GEHEIM"
+      }
+    },
+    {
+      "kind": "content_control_placeholder_doc_part",
+      "value": "352FFCA327FC4F39B58E3F2DD71BEA4E"
+    },
+    {
+      "kind": "glossary_doc_part",
+      "value": "Status auswählen"
+    },
+    {
+      "kind": "glossary_doc_part",
+      "value": "Klassifizierung auswählen"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[1]"
+    },
+    {
+      "kind": "ellipsis",
+      "value": "..."
+    }
+  ],
+  "field_codes": [
+    {
+      "part_name": "word/document.xml",
+      "code": "TOC \\o \"1-1\" \\h \\z \\u"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212113522 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212113523 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212113524 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212113525 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212113526 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc212113527 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "DATE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    }
+  ],
+  "content_controls": [
+    {
+      "type": "content_control",
+      "alias": "Dokument Status",
+      "tag": "Dokument Status",
+      "id": "763658595",
+      "control_kinds": [
+        "dropDownList"
+      ],
+      "placeholder_doc_part": "448B691DD16344A4886C2352182DFBEE",
+      "choice_items": [
+        {
+          "display_text": "in Arbeit",
+          "value": "in Arbeit"
+        },
+        {
+          "display_text": "geprüft",
+          "value": "geprüft"
+        },
+        {
+          "display_text": "fertiggestellt",
+          "value": "fertiggestellt"
+        },
+        {
+          "display_text": "abgenommen",
+          "value": "abgenommen"
+        }
+      ],
+      "text": "in Arbeit",
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "1673300542",
+      "control_kinds": [
+        "comboBox"
+      ],
+      "placeholder_doc_part": "352FFCA327FC4F39B58E3F2DD71BEA4E",
+      "choice_items": [
+        {
+          "display_text": "Nicht klassifiziert",
+          "value": "Nicht klassifiziert"
+        },
+        {
+          "display_text": "INTERN",
+          "value": "INTERN"
+        },
+        {
+          "display_text": "VERTRAULICH",
+          "value": "VERTRAULICH"
+        },
+        {
+          "display_text": "GEHEIM",
+          "value": "GEHEIM"
+        }
+      ],
+      "text": "Nicht klassifiziert",
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "2069071964",
+      "control_kinds": [
+        "docPartObj",
+        "rPr"
+      ],
+      "text": "Inhaltsverzeichnis0. Einleitung 31. Betroffene Ausschreibung 42. Beschaffungsstelle 43. Zuschlagsempfänger 44. Rechtsmittel 45. Dokument-Protokoll 5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Inhaltsverzeichnis",
+          "style_id": "Inhaltsverzeichnisberschrift",
+          "style_name": "TOC Heading",
+          "runs": [
+            {
+              "text": "Inhaltsverzeichnis",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "0. Einleitung 3",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "TOC \\o \"1-1\" \\h \\z \\u",
+            "PAGEREF _Toc212113522 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "0. Einleitung 3",
+              "relationship_id": null,
+              "anchor": "_Toc212113522",
+              "target": null,
+              "target_mode": null
+            }
+          ],
+          "runs": [
+            {
+              "text": "",
+              "bold": true,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "begin"
+              ],
+              "instr_text": []
+            },
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": [
+                "TOC \\o \"1-1\" \\h \\z \\u"
+              ]
+            },
+            {
+              "text": "",
+              "bold": true,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "separate"
+              ],
+              "instr_text": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Betroffene Ausschreibung 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212113523 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "1. Betroffene Ausschreibung 4",
+              "relationship_id": null,
+              "anchor": "_Toc212113523",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Beschaffungsstelle 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212113524 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "2. Beschaffungsstelle 4",
+              "relationship_id": null,
+              "anchor": "_Toc212113524",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Zuschlagsempfänger 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212113525 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "3. Zuschlagsempfänger 4",
+              "relationship_id": null,
+              "anchor": "_Toc212113525",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Rechtsmittel 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212113526 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "4. Rechtsmittel 4",
+              "relationship_id": null,
+              "anchor": "_Toc212113526",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Dokument-Protokoll 5",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc212113527 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "5. Dokument-Protokoll 5",
+              "relationship_id": null,
+              "anchor": "_Toc212113527",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "end"
+              ],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "part_name": "word/document.xml"
+    }
+  ],
+  "document": {
+    "part_name": "word/document.xml",
+    "text": "PublikationProjektname / Projektnummer Bearbeitungsdatum 26.01.2026Version 0.1Dokument Status in ArbeitKlassifizierung Nicht klassifiziertAutor/-in …Projektleiter/in ProjektleiterAuftraggeber/in AuftraggeberVerwaltungseinheit VerwaltungseinheitGeschäftsbereich GeschäftsbereichInnenauftragsnr. InnenauftragsnummerProjektnummer ProjektnummerPFCT Bund Link zuDiese Tabelle bei Bedarf anpassen vor Verwendung.\nInhaltsverzeichnisInhaltsverzeichnis0. Einleitung 31. Betroffene Ausschreibung 42. Beschaffungsstelle 43. Zuschlagsempfänger 44. Rechtsmittel 45. Dokument-Protokoll 5\nEinleitungZiel und Zweck des DokumentsDie Publikation informiert über die Zuschlagserteilung in der betreffenden Ausschreibung. Form und Inhalt der Publikation werden durch die Controlling- und Vorgabestellen bzw. die Beschaffungsstelle vorgegeben. In der Schweiz erfolgen Publikationen öffentlicher Ausschrei-bungen i.d.R. über www.simap.ch.Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.Kursiver Text im Dokument: Hinweise zur Verwendung oder Beispiele - entsprechend anzupassen oder zu löschen. Referenzierte DokumenteNr.NameNummer / Link[1]#Mitgeltende Unterlagen NameNummer / Link#Definitionen und AbkürzungenAbkürzungBedeutungCHFSchweizer FrankenPTPersonentageAGAuftraggeberPLProjektleiterVorgaben, Methoden und WerkzeugeTitelVorgabe / Methode / WerkzeugVersionProjektmanagementmethodeHERMESAktuell gültige VersionDokumentationMS Office Palette gem. VorlageProzesse / AbläufeMS PowerPoint, VisioBeschaffungGemäss Vorgabe StammorganisationDokumentenablageGemäss Vorgabe StammorganisationReportingGemäss Vorgabe Stammorganisation\nBetroffene Ausschreibung…BeschaffungsstelleOrganisationAbteilung ZuständigKontaktadresse01ABC AGZentraler EinkaufHans MeierHans.meier@abc.comZuschlagsempfängerOrganisationAbteilung ZuständigKontaktadresse01XY AGDienstleistung & ServiceBea KellerBea.keller@xy.comRechtsmittel…Eine ordnungsgemässe Rechtsmittelbelehrung enthält die Bezeichnung als Rechtsmittel-belehrung, die Behörde oder das Gericht, bei dem der Rechtsbehelf einzulegen ist sowie die Frist, innerhalb der das Rechtsmittel einzulegen und gegebenenfalls zu begründen ist.\nDokument-ProtokollÄnderungskontrolleVersionNameDatumBemerkungen0.1PrüfungVersionNameDatumBemerkungen0.FreigabeVersionNameDatumBemerkungen1.0",
+    "blocks": [
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Publikation",
+        "style_id": "Titel",
+        "style_name": "Title",
+        "bookmarks": [
+          {
+            "name": "VN",
+            "id": "0"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Publikation",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektname / Projektnummer",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektname / Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bearbeitungsdatum 26.01.2026",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "field_codes": [
+          "DATE \\* MERGEFORMAT"
+        ],
+        "runs": [
+          {
+            "text": "Bearbeitungsdatum",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Version 0.1",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Version",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "0.1",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Dokument Status in Arbeit",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Dokument Status",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Klassifizierung Nicht klassifiziert",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "bookmarks": [
+          {
+            "name": "Klassifizierung",
+            "id": "1"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Klassifizierung",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Autor/-in …",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Autor/-in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektleiter/in Projektleiter",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektleiter/in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Projektleiter",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Auftraggeber/in Auftraggeber",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Auftraggeber/in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Auftraggeber",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Verwaltungseinheit Verwaltungseinheit",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Verwaltungseinheit",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Verwaltungseinheit",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Geschäftsbereich Geschäftsbereich",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Geschäftsbereich",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Geschäftsbereich",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Innenauftragsnr. Innenauftragsnummer",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Innenauftragsnr.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Innenauftragsnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektnummer Projektnummer",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "PFCT Bund Link zu",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "PFCT Bund",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Link zu",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Diese Tabelle bei Bedarf anpassen vor Verwendung.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Diese",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Tabelle",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "bei Bedarf anpassen vor Verwendung.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Inhaltsverzeichnis",
+        "runs": [
+          {
+            "text": "Inhaltsverzeichnis",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "content_control",
+        "id": "2069071964",
+        "control_kinds": [
+          "docPartObj",
+          "rPr"
+        ],
+        "text": "Inhaltsverzeichnis0. Einleitung 31. Betroffene Ausschreibung 42. Beschaffungsstelle 43. Zuschlagsempfänger 44. Rechtsmittel 45. Dokument-Protokoll 5",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Inhaltsverzeichnis",
+            "style_id": "Inhaltsverzeichnisberschrift",
+            "style_name": "TOC Heading",
+            "runs": [
+              {
+                "text": "Inhaltsverzeichnis",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "0. Einleitung 3",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "TOC \\o \"1-1\" \\h \\z \\u",
+              "PAGEREF _Toc212113522 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "0. Einleitung 3",
+                "relationship_id": null,
+                "anchor": "_Toc212113522",
+                "target": null,
+                "target_mode": null
+              }
+            ],
+            "runs": [
+              {
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "begin"
+                ],
+                "instr_text": []
+              },
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": [
+                  "TOC \\o \"1-1\" \\h \\z \\u"
+                ]
+              },
+              {
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "separate"
+                ],
+                "instr_text": []
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "1. Betroffene Ausschreibung 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212113523 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "1. Betroffene Ausschreibung 4",
+                "relationship_id": null,
+                "anchor": "_Toc212113523",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "2. Beschaffungsstelle 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212113524 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "2. Beschaffungsstelle 4",
+                "relationship_id": null,
+                "anchor": "_Toc212113524",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "3. Zuschlagsempfänger 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212113525 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "3. Zuschlagsempfänger 4",
+                "relationship_id": null,
+                "anchor": "_Toc212113525",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "4. Rechtsmittel 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212113526 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "4. Rechtsmittel 4",
+                "relationship_id": null,
+                "anchor": "_Toc212113526",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "5. Dokument-Protokoll 5",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc212113527 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "5. Dokument-Protokoll 5",
+                "relationship_id": null,
+                "anchor": "_Toc212113527",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "runs": [
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "end"
+                ],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Einleitung",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740558",
+            "id": "2"
+          },
+          {
+            "name": "_Toc212113522",
+            "id": "3"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Einleitung",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Ziel und Zweck des Dokuments",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc476559981",
+            "id": "4"
+          },
+          {
+            "name": "_Toc24614818",
+            "id": "5"
+          },
+          {
+            "name": "_Toc196740559",
+            "id": "6"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Ziel und Zweck des Dokuments",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Publikation informiert über die Zuschlagserteilung in der betreffenden Ausschreibung. Form und Inhalt der Publikation werden durch die Controlling- und Vorgabestellen bzw. die Beschaffungsstelle vorgegeben. In der Schweiz erfolgen Publikationen öffentlicher Ausschrei-bungen i.d.R. über www.simap.ch.",
+        "bookmarks": [
+          {
+            "name": "_Toc14859779",
+            "id": "7"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Die Publikation informiert über die Zuschlagserteilung in der betreffenden Ausschreibung. Form und Inhalt der Publikation werden durch die Controlling- und Vorgabestellen bzw. die Beschaffungsstelle vorgegeben. In der Schweiz erfolgen Publikationen öffentlicher Ausschrei-bungen i.d.R. über www.simap.ch.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.",
+        "runs": [
+          {
+            "text": "Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kursiver Text im Dokument: Hinweise zur Verwendung oder Beispiele - entsprechend anzupassen oder zu löschen.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Kursiver Text im Dokument: Hinweise zur Verwendung oder Beispiele - entsprechend anzupassen oder zu löschen.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Referenzierte Dokumente",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740560",
+            "id": "8"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Referenzierte Dokumente",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Nr.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nr.",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nr.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nummer / Link",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nummer / Link",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nummer / Link",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "[1]",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "[1]",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "[1]",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "#",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "#",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "#",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "Nr.NameNummer / Link[1]#"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mitgeltende Unterlagen",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740561",
+            "id": "9"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Mitgeltende Unterlagen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nummer / Link",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nummer / Link",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nummer / Link",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "#",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "#",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "#",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "NameNummer / Link#"
+      },
+      {
+        "type": "paragraph",
+        "text": "Definitionen und Abkürzungen",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740562",
+            "id": "10"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Definitionen und Abkürzungen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Abkürzung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Abkürzung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Abkürzung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bedeutung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bedeutung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bedeutung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "CHF",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "CHF",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "CHF",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Schweizer Franken",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Schweizer Franken",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Schweizer Franken",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "PT",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PT",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "PT",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Personentage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Personentage",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Personentage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "AG",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "AG",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "AG",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Auftraggeber",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Auftraggeber",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Auftraggeber",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "PL",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PL",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "PL",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Projektleiter",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektleiter",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Projektleiter",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "AbkürzungBedeutungCHFSchweizer FrankenPTPersonentageAGAuftraggeberPLProjektleiter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vorgaben, Methoden und Werkzeuge",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc196740563",
+            "id": "11"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Vorgaben, Methoden und Werkzeuge",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Titel",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titel",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Titel",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Vorgabe / Methode / Werkzeug",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Vorgabe / Methode / Werkzeug",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Vorgabe / Methode / Werkzeug",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Projektmanagementmethode",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektmanagementmethode",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Projektmanagementmethode",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "HERMES",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "HERMES",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "hyperlinks": [
+                    {
+                      "text": "HERMES",
+                      "relationship_id": "rId9",
+                      "anchor": null,
+                      "target": "http://www.hermes.admin.ch/",
+                      "target_mode": "External"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Aktuell gültige Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aktuell gültige Version",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Aktuell gültige Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Dokumentation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dokumentation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Dokumentation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MS Office Palette gem. Vorlage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MS Office Palette gem. Vorlage",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "MS Office Palette gem. Vorlage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Prozesse / Abläufe",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prozesse / Abläufe",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Prozesse / Abläufe",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MS PowerPoint, Visio",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MS PowerPoint, Visio",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "MS PowerPoint, Visio",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Beschaffung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Beschaffung",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Beschaffung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Dokumentenablage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dokumentenablage",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Dokumentenablage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Reporting",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Reporting",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Reporting",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "TitelVorgabe / Methode / WerkzeugVersionProjektmanagementmethodeHERMESAktuell gültige VersionDokumentationMS Office Palette gem. VorlageProzesse / AbläufeMS PowerPoint, VisioBeschaffungGemäss Vorgabe StammorganisationDokumentenablageGemäss Vorgabe StammorganisationReportingGemäss Vorgabe Stammorganisation"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Betroffene Ausschreibung",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc212113523",
+            "id": "12"
+          },
+          {
+            "name": "_Toc196740564",
+            "id": "13"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Betroffene Ausschreibung",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Beschaffungsstelle",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc212113524",
+            "id": "14"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Beschaffungsstelle",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Organisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Organisation",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Organisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Abteilung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Abteilung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Abteilung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Zuständig",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Zuständig",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Zuständig",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Kontaktadresse",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Kontaktadresse",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Kontaktadresse",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "01",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "01",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "01",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "ABC AG",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "ABC AG",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "ABC AG",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Zentraler Einkauf",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Zentraler Einkauf",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Zentraler Einkauf",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Hans Meier",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Hans Meier",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Hans Meier",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Hans.meier@abc.com",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Hans.meier@abc.com",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Hans.meier@abc.com",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "OrganisationAbteilung ZuständigKontaktadresse01ABC AGZentraler EinkaufHans MeierHans.meier@abc.com"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zuschlagsempfänger",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc212113525",
+            "id": "15"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Zuschlagsempfänger",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Organisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Organisation",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Organisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Abteilung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Abteilung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Abteilung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Zuständig",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Zuständig",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Zuständig",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Kontaktadresse",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Kontaktadresse",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Kontaktadresse",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "01",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "01",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "01",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "Text85pt",
+                  "style_name": "Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "XY AG",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "XY AG",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "XY AG",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Dienstleistung & Service",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dienstleistung & Service",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Dienstleistung & Service",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bea Keller",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bea Keller",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Bea Keller",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bea.keller@xy.com",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bea.keller@xy.com",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Bea.keller@xy.com",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "OrganisationAbteilung ZuständigKontaktadresse01XY AGDienstleistung & ServiceBea KellerBea.keller@xy.com"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Rechtsmittel",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc212113526",
+            "id": "16"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Rechtsmittel",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Eine ordnungsgemässe Rechtsmittelbelehrung enthält die Bezeichnung als Rechtsmittel-belehrung, die Behörde oder das Gericht, bei dem der Rechtsbehelf einzulegen ist sowie die Frist, innerhalb der das Rechtsmittel einzulegen und gegebenenfalls zu begründen ist.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "E",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "ine ordnungsgemässe Rechtsmittelbelehrung enthält die Bezeichnung als Rechtsmittel-belehrung, die Behörde oder das Gericht, bei dem der Rechtsbehelf einzulegen ist sowie die Frist, innerhalb der das Rechtsmittel einzulegen und gegebenenfalls zu begründen is",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "t.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dokument-Protokoll",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc14859780",
+            "id": "17"
+          },
+          {
+            "name": "_Toc212113527",
+            "id": "18"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Dokument-Protokoll",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Änderungskontrolle",
+        "runs": [
+          {
+            "text": "Änderungskontrolle",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "0.1",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "0.1",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "0.1",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen0.1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prüfung",
+        "runs": [
+          {
+            "text": "Prüfung",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "0.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "0.",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "0.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen0."
+      },
+      {
+        "type": "paragraph",
+        "text": "Freigabe",
+        "runs": [
+          {
+            "text": "Freigabe",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "1.0",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "1.0",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "1.0",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen1.0"
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "headers": [
+    {
+      "part_name": "word/header1.xml",
+      "text": "PublikationProjektname / Projektnummer",
+      "blocks": [
+        {
+          "type": "table",
+          "style_id": "TabelleohneRahmen",
+          "style_name": "Tabelle ohne Rahmen",
+          "rows": [
+            [
+              {
+                "text": "PublikationProjektname / Projektnummer",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Publikation",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Publikation",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Projektname / Projektnummer",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Projektname / Projektnummer",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "PublikationProjektname / Projektnummer"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/header2.xml",
+      "text": "PublikationProjektname / Projektnummer",
+      "blocks": [
+        {
+          "type": "table",
+          "style_id": "TabelleohneRahmen",
+          "style_name": "Tabelle ohne Rahmen",
+          "rows": [
+            [
+              {
+                "text": "PublikationProjektname / Projektnummer",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Publikation",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Publikation",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Projektname / Projektnummer",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Projektname / Projektnummer",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "PublikationProjektname / Projektnummer"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/header3.xml",
+      "text": "VerwaltungseinheitGeschäftsbereich",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        },
+        {
+          "type": "table",
+          "style_id": "Tabellenraster",
+          "style_name": "Table Grid",
+          "rows": [
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "restart",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "Verwaltungseinheit",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Verwaltungseinheit",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header",
+                    "runs": [
+                      {
+                        "text": "Verwaltungseinheit",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "Geschäftsbereich",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Geschäftsbereich",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header",
+                    "runs": [
+                      {
+                        "text": "Geschäftsbereich",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "VerwaltungseinheitGeschäftsbereich"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    }
+  ],
+  "footers": [
+    {
+      "part_name": "word/footer1.xml",
+      "text": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Fuzeile",
+          "style_name": "footer"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "text": "publikation.dotx9/99/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "publikation.dotx9/99/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "9/99/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "text": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Fuzeile",
+          "style_name": "footer"
+        }
+      ],
+      "field_codes": []
+    }
+  ],
+  "glossary": {
+    "part_name": "word/glossary/document.xml",
+    "text": "Status auswählenKlassifizierung auswählen",
+    "doc_parts": [
+      {
+        "name": "448B691DD16344A4886C2352182DFBEE",
+        "category": "Allgemein",
+        "gallery": null,
+        "description": null,
+        "text": "Status auswählen",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Status auswählen",
+            "style_id": "448B691DD16344A4886C2352182DFBEE",
+            "runs": [
+              {
+                "text": "Status auswählen",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "352FFCA327FC4F39B58E3F2DD71BEA4E",
+        "category": "Allgemein",
+        "gallery": null,
+        "description": null,
+        "text": "Klassifizierung auswählen",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Klassifizierung auswählen",
+            "style_id": "352FFCA327FC4F39B58E3F2DD71BEA4E",
+            "runs": [
+              {
+                "text": "Klassifizierung auswählen",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "custom_xml": [
+    {
+      "part_name": "customXml/item1.xml",
+      "root_element": "Sources",
+      "text": "Authr Book {BA01FD2C-EDFC-4D13-8F46-679005D5D2FB} Autor Anton Titel Jahr Ort Verleger 1"
+    },
+    {
+      "part_name": "customXml/itemProps1.xml",
+      "root_element": "datastoreItem",
+      "text": ""
+    }
+  ],
+  "footnotes": [],
+  "endnotes": []
+}

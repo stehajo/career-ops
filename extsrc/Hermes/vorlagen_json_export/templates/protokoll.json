@@ -1,0 +1,5127 @@
+{
+  "source_path_in_archive": "vorlagen/protokoll.dotx",
+  "source_file_name": "protokoll.dotx",
+  "source_format": "DOTX",
+  "extracted_at_utc": "2026-04-07T21:31:24.891844+00:00",
+  "document_properties": {
+    "core": {
+      "title": "",
+      "subject": "",
+      "creator": "",
+      "keywords": "",
+      "description": "",
+      "lastModifiedBy": "",
+      "revision": "1",
+      "created": "2026-01-26T10:30:00Z",
+      "modified": "2026-01-26T10:30:00Z",
+      "category": ""
+    },
+    "app": {
+      "Template": "",
+      "TotalTime": "0",
+      "Pages": "4",
+      "Words": "357",
+      "Characters": "2317",
+      "Application": "Microsoft Office Word",
+      "DocSecurity": "0",
+      "Lines": "386",
+      "Paragraphs": "127",
+      "ScaleCrop": "false",
+      "Manager": "",
+      "Company": "",
+      "LinksUpToDate": "false",
+      "CharactersWithSpaces": "2547",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0000"
+    },
+    "custom": {}
+  },
+  "settings": {
+    "update_fields_on_open": false,
+    "track_revisions": false,
+    "default_tab_stop": "708",
+    "zoom_percent": "100"
+  },
+  "package_parts": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "customXml/_rels/item1.xml.rels",
+    "customXml/item1.xml",
+    "customXml/itemProps1.xml",
+    "docProps/app.xml",
+    "docProps/core.xml",
+    "word/_rels/document.xml.rels",
+    "word/_rels/header3.xml.rels",
+    "word/document.xml",
+    "word/endnotes.xml",
+    "word/fontTable.xml",
+    "word/footer1.xml",
+    "word/footer2.xml",
+    "word/footer3.xml",
+    "word/footer4.xml",
+    "word/footnotes.xml",
+    "word/header1.xml",
+    "word/header2.xml",
+    "word/header3.xml",
+    "word/media/image_rId1_header3.png",
+    "word/numbering.xml",
+    "word/settings.xml",
+    "word/styles.xml",
+    "word/theme/theme1.xml",
+    "word/webSettings.xml"
+  ],
+  "summary": {
+    "body_text_characters": 2289,
+    "body_paragraph_count": 263,
+    "body_table_count": 5,
+    "section_count": 2,
+    "header_count": 3,
+    "footer_count": 4,
+    "content_control_count": 0,
+    "field_code_count": 15,
+    "glossary_present": false,
+    "glossary_doc_part_count": 0,
+    "footnote_count": 0,
+    "endnote_count": 0
+  },
+  "headings": [],
+  "used_styles": {
+    "paragraph_styles": [
+      {
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt"
+      },
+      {
+        "style_id": "HAufzhlungHilfe10pt",
+        "style_name": "H_Aufzählung Hilfe 10pt"
+      },
+      {
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "style_id": "HTabBeispiel85ptF",
+        "style_name": "H_Tab_Beispiel 8.5pt (F)"
+      },
+      {
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "style_id": "HTabTit65pt",
+        "style_name": "H_Tab_Tit 6.5 pt"
+      },
+      {
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt"
+      },
+      {
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt"
+      },
+      {
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "style_id": "Titel",
+        "style_name": "Title"
+      }
+    ],
+    "table_styles": [
+      {
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1"
+      }
+    ]
+  },
+  "detected_placeholders": [
+    {
+      "kind": "square_brackets",
+      "value": "[Hier Verwaltungseinheit eingeben]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Hier Geschäftsbereich eingeben]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Name]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Namen, ggf. mit Funktion]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Text]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[1]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Datum]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Bezeichnung Traktandum 1]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Bezeichnung Traktandum n]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Beschluss 1]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Beschluss 2]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[tt.mm.jjjj]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[hh:mm Uhr]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Ort oder Link]"
+    },
+    {
+      "kind": "ellipsis",
+      "value": "..."
+    }
+  ],
+  "field_codes": [
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    }
+  ],
+  "content_controls": [],
+  "document": {
+    "part_name": "word/document.xml",
+    "text": "ProtokollProjektname / Projektnummer Verwaltungseinheit [Hier Verwaltungseinheit eingeben]Geschäftsbereich [Hier Geschäftsbereich eingeben]Innenauftragsnr. …Projektnummer …PFCT Bund Link zuSitzung: VerwaltungseinheitDatum: GeschäftsbereichZeit: InnenauftragsnummerOrt: ProjektnummerLeitung: [Name]Protokoll: [Name]Teilnehmende: - [Namen, ggf. mit Funktion]- [Namen, ggf. mit Funktion]- [Namen, ggf. mit Funktion]- [Namen, ggf. mit Funktion]Abwesende: - [Namen, ggf. mit Funktion]- [Namen, ggf. mit Funktion]Diese Tabelle bei Bedarf anpassen vor Verwendung.\nEinleitungZiel und Zweck des DokumentsDas Protokoll dokumentiert einerseits die Entscheide und Aufträge, die in einer Besprechung getroffen bzw. erteilt werden, anderseits wichtige Führungs- und Ausführungsprozesse, die später bei Bedarf nachvollzogen werden müssen. Wichtige Diskussions- und Handlungspunkte werden festgehalten.Generell: Die Sammlung aller Protokolle dient der Nachvollziehbarkeit von Entscheiden und Abläufen bzw. Prozessen.Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.Farbige, kursive Texte gelten als Hilfe-/Tabellenbeispiel-Texte und sind vor der Freigabe des Dokuments zu löschen. [Text] sind Felder.Referenzierte DokumenteNr.NameNummer / Link[1]…#Mitgeltende Unterlagen NameNummer / Link…#Definitionen und AbkürzungenAbkürzungBedeutungCHFSchweizer FrankenPTPersonentageAGAuftraggeberPLProjektleiterVorgaben, Methoden und WerkzeugeTitelVorgabe / Methode / WerkzeugVersionProjektmanagementmethodeHERMESAktuell gültige VersionDokumentationMS Office Palette gem. VorlageProzesse / AbläufeMS PowerPoint, VisioBeschaffungGemäss Vorgabe StammorganisationDokumentenablageGemäss Vorgabe StammorganisationReportingGemäss Vorgabe StammorganisationBegrüssung & Genehmigung des letzten ProtokollsProtokoll vom [Datum] genehmigtErgänzungen / Kommentare, falls vorhanden[Bezeichnung Traktandum 1]Punkt 1: … Punkt 2: …Punkt 3: …[Bezeichnung Traktandum n]…4. Beschlüsse…[Beschluss 1][Beschluss 2]Nächstes MeetingDatum: [tt.mm.jjjj], Zeit: [hh:mm Uhr]Ort: [Ort oder Link]Vorgesehene Themen:…Anhang: PendenzenNr.BeschreibungDatumVerantw.TerminErledigt am0102Die Erkenntnisse der Universitäten werden durch XX und YY in das Dokument eingearbeitet.F. Graber……",
+    "blocks": [
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Protokoll",
+        "style_id": "Titel",
+        "style_name": "Title",
+        "bookmarks": [
+          {
+            "name": "VN",
+            "id": "0"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Protokoll",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektname / Projektnummer",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektname / Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Verwaltungseinheit [Hier Verwaltungseinheit eingeben]",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "bookmarks": [
+          {
+            "name": "VE",
+            "id": "1"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Verwaltungseinheit",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Hier Verwaltungseinheit eingeben",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Geschäftsbereich [Hier Geschäftsbereich eingeben]",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "bookmarks": [
+          {
+            "name": "GB",
+            "id": "2"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Geschäftsbereich",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Hier Geschäftsbereich eingeben",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Innenauftragsnr. …",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Innenauftragsnr.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektnummer …",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "PFCT Bund Link zu",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "PFCT Bund",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Link zu",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sitzung: Verwaltungseinheit",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Sitzung:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Verwaltungseinheit",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Datum: Geschäftsbereich",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Datum:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Geschäftsbereich",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Zeit: Innenauftragsnummer",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Zeit:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Innenauftragsnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Ort: Projektnummer",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Ort:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Leitung: [Name]",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Leitung:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Name]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Protokoll: [Name]",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Protokoll:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Name]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Teilnehmende: - [Namen, ggf. mit Funktion]",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Teilnehmende:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "-",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Namen, ggf. mit Funktion]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "- [Namen, ggf. mit Funktion]",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "numbering": {
+          "num_id": "0",
+          "level": 0
+        },
+        "bookmarks": [
+          {
+            "name": "_Hlk202873185",
+            "id": "3"
+          }
+        ],
+        "runs": [
+          {
+            "text": "-",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Namen, ggf. mit Funktion]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "- [Namen, ggf. mit Funktion]",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "numbering": {
+          "num_id": "0",
+          "level": 0
+        },
+        "runs": [
+          {
+            "text": "-",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Namen, ggf. mit Funktion]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "- [Namen, ggf. mit Funktion]",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "numbering": {
+          "num_id": "0",
+          "level": 0
+        },
+        "runs": [
+          {
+            "text": "-",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Namen, ggf. mit Funktion]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Abwesende: - [Namen, ggf. mit Funktion]",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Abwesend",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "e",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": ":",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "-",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Namen, ggf. mit Funktion]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "- [Namen, ggf. mit Funktion]",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "numbering": {
+          "num_id": "0",
+          "level": 0
+        },
+        "bookmarks": [
+          {
+            "name": "_Hlk202873226",
+            "id": "4"
+          }
+        ],
+        "runs": [
+          {
+            "text": "-",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Namen, ggf. mit Funktion]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Diese Tabelle bei Bedarf anpassen vor Verwendung.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Diese Tabelle bei Bedarf anpassen vor Verwendung.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Einleitung",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc202873508",
+            "id": "5"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Einleitung",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Ziel und Zweck des Dokuments",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc476559981",
+            "id": "6"
+          },
+          {
+            "name": "_Toc24614818",
+            "id": "7"
+          },
+          {
+            "name": "_Toc202873509",
+            "id": "8"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Ziel und Zweck des Dokuments",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Das Protokoll dokumentiert einerseits die Entscheide und Aufträge, die in einer Besprechung getroffen bzw. erteilt werden, anderseits wichtige Führungs- und Ausführungsprozesse, die später bei Bedarf nachvollzogen werden müssen. Wichtige Diskussions- und Handlungspunkte werden festgehalten.",
+        "bookmarks": [
+          {
+            "name": "_Toc14859779",
+            "id": "9"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Das Protokoll dokumentiert einerseits die Entscheide und Aufträge, die in einer Besprechung getroffen bzw. erteilt werden, anderseits wichtige Führungs- und Ausführungsprozesse, die später bei Bedarf nachvollzogen werden müssen. Wichtige Diskussions- und Handlungspunkte werden festgehalten.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Generell: Die Sammlung aller Protokolle dient der Nachvollziehbarkeit von Entscheiden und Abläufen bzw. Prozessen.",
+        "runs": [
+          {
+            "text": "Generell: Die Sammlung aller Protokolle dient der Nachvollziehbarkeit von Entscheiden und Abläufen bzw. Prozessen.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.",
+        "runs": [
+          {
+            "text": "Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Farbige, kursive Texte gelten als Hilfe-/Tabellenbeispiel-Texte und sind vor der Freigabe des Dokuments zu löschen. [Text] sind Felder.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Farbige, k",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "ursive Texte gelten als Hilfe",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "-/",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Tabellenbeispiel-T",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "exte",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "und",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "sind vor der Freigabe des Dokuments zu löschen.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Text] sind Felder.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Referenzierte Dokumente",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc202873510",
+            "id": "10"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Referenzierte Dokumente",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Nr.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nr.",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nr.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nummer / Link",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nummer / Link",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nummer / Link",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "[1]",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "[1]",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "[1]",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "#",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "#",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "#",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "Nr.NameNummer / Link[1]…#"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mitgeltende Unterlagen",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc202873511",
+            "id": "11"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Mitgeltende Unterlagen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nummer / Link",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nummer / Link",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nummer / Link",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "#",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "#",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "#",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "NameNummer / Link…#"
+      },
+      {
+        "type": "paragraph",
+        "text": "Definitionen und Abkürzungen",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc202873512",
+            "id": "12"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Definitionen und Abkürzungen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Abkürzung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Abkürzung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Abkürzung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bedeutung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bedeutung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bedeutung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "CHF",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "CHF",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "CHF",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Schweizer Franken",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Schweizer Franken",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Schweizer Franken",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "PT",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PT",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "PT",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Personentage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Personentage",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Personentage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "AG",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "AG",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "AG",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Auftraggeber",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Auftraggeber",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Auftraggeber",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "PL",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PL",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "PL",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Projektleiter",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektleiter",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Projektleiter",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "AbkürzungBedeutungCHFSchweizer FrankenPTPersonentageAGAuftraggeberPLProjektleiter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vorgaben, Methoden und Werkzeuge",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc202873513",
+            "id": "13"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Vorgaben, Methoden und Werkzeuge",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Titel",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titel",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Titel",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Vorgabe / Methode / Werkzeug",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Vorgabe / Methode / Werkzeug",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Vorgabe / Methode / Werkzeug",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Projektmanagementmethode",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektmanagementmethode",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Projektmanagementmethode",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "HERMES",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "HERMES",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "hyperlinks": [
+                    {
+                      "text": "HERMES",
+                      "relationship_id": "rId8",
+                      "anchor": null,
+                      "target": "http://www.hermes.admin.ch/",
+                      "target_mode": "External"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Aktuell gültige Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aktuell gültige Version",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Aktuell gültige",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Dokumentation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dokumentation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Dokumentation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MS Office Palette gem. Vorlage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MS Office Palette gem. Vorlage",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "MS Office Palette",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "gem. Vorlage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Prozesse / Abläufe",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prozesse / Abläufe",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Prozesse / Abläufe",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MS PowerPoint, Visio",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MS PowerPoint, Visio",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "MS PowerPoint, Visio",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Beschaffung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Beschaffung",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Beschaffung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Dokumentenablage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dokumentenablage",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Dokumentenablage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Reporting",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Reporting",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Reporting",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "TitelVorgabe / Methode / WerkzeugVersionProjektmanagementmethodeHERMESAktuell gültige VersionDokumentationMS Office Palette gem. VorlageProzesse / AbläufeMS PowerPoint, VisioBeschaffungGemäss Vorgabe StammorganisationDokumentenablageGemäss Vorgabe StammorganisationReportingGemäss Vorgabe Stammorganisation"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Begrüssung & Genehmigung des letzten Protokolls",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc202873514",
+            "id": "14"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Begrüssung & Genehmigung des letzten Protokolls",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Protokoll vom [Datum] genehmigt",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "runs": [
+          {
+            "text": "Protokoll vom [Datum] genehmigt",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Ergänzungen / Kommentare, falls vorhanden",
+        "style_id": "HAufzhlungHilfe10pt",
+        "style_name": "H_Aufzählung Hilfe 10pt",
+        "runs": [
+          {
+            "text": "Ergänzungen / Kommentare, falls vorhanden",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "[Bezeichnung Traktandum 1]",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "runs": [
+          {
+            "text": "[Bezeichnung Traktandum",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "1",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Punkt 1: …",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "runs": [
+          {
+            "text": "Punkt 1:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Punkt 2: …",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "runs": [
+          {
+            "text": "Punkt 2:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Punkt 3: …",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "runs": [
+          {
+            "text": "Punkt 3:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "[Bezeichnung Traktandum n]",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "runs": [
+          {
+            "text": "[Bezeichnung Traktandum",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "n",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "4. Beschlüsse",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc202873517",
+            "id": "15"
+          }
+        ],
+        "runs": [
+          {
+            "text": "4. Beschlüsse",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "[Beschluss 1]",
+        "style_id": "HAufzhlungHilfe10pt",
+        "style_name": "H_Aufzählung Hilfe 10pt",
+        "runs": [
+          {
+            "text": "[Beschluss 1]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "[Beschluss 2]",
+        "style_id": "HAufzhlungHilfe10pt",
+        "style_name": "H_Aufzählung Hilfe 10pt",
+        "runs": [
+          {
+            "text": "[Beschluss 2]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Nächstes Meeting",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc202873519",
+            "id": "16"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Nächstes Meeting",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Datum: [tt.mm.jjjj], Zeit: [hh:mm Uhr]",
+        "runs": [
+          {
+            "text": "Datum: [",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "tt",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "mm",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "jjjj",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "], Zeit: [",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "hh",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": ":",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "mm",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Uhr]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Ort: [Ort oder Link]",
+        "runs": [
+          {
+            "text": "Ort:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Ort oder Link]",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Vorgesehene Themen:",
+        "runs": [
+          {
+            "text": "Vorgesehene Themen:",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "style_id": "HAufzhlung105pt",
+        "style_name": "H_Aufzählung 10.5pt",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Anhang: Pendenzen",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "runs": [
+          {
+            "text": "Anhang: Pendenzen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Nr.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nr.",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nr.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Beschreibung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Beschreibung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Beschreibung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Verantw.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Verantw.",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Verantw.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Termin",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Termin",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Termin",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Erledigt am",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Erledigt am",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "E",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "rledigt am",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "01",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "01",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "0",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "1",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "02",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "02",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "0",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "2",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Die Erkenntnisse der Universitäten werden durch XX und YY in das Dokument eingearbeitet.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Die Erkenntnisse der Universitäten werden durch XX und YY in das Dokument eingearbeitet.",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Die Erkenntnisse der Universitäten werden durch XX und YY in das Dokument eingearbeitet",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": ".",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)"
+                }
+              ]
+            },
+            {
+              "text": "F. Graber",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "F. Graber",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "F. Graber",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "Nr.BeschreibungDatumVerantw.TerminErledigt am0102Die Erkenntnisse der Universitäten werden durch XX und YY in das Dokument eingearbeitet.F. Graber……"
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "headers": [
+    {
+      "part_name": "word/header1.xml",
+      "text": "ProtokollProjektname / Projektnummer",
+      "blocks": [
+        {
+          "type": "table",
+          "style_id": "TabelleohneRahmen",
+          "style_name": "Tabelle ohne Rahmen",
+          "rows": [
+            [
+              {
+                "text": "ProtokollProjektname / Projektnummer",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Protokoll",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Protokoll",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Projektname / Projektnummer",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Projektname / Projektnummer",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "ProtokollProjektname / Projektnummer"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/header2.xml",
+      "text": "ProtokollProjektname / Projektnummer",
+      "blocks": [
+        {
+          "type": "table",
+          "style_id": "TabelleohneRahmen",
+          "style_name": "Tabelle ohne Rahmen",
+          "rows": [
+            [
+              {
+                "text": "ProtokollProjektname / Projektnummer",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Protokoll",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Protokoll",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Projektname / Projektnummer",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Projektname / Projektnummer",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "ProtokollProjektname / Projektnummer"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/header3.xml",
+      "text": "VerwaltungseinheitGeschäftsbereich",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        },
+        {
+          "type": "table",
+          "style_id": "Tabellenraster",
+          "style_name": "Table Grid",
+          "rows": [
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "restart",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "Verwaltungseinheit",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Verwaltungseinheit",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header",
+                    "runs": [
+                      {
+                        "text": "Verwaltungseinheit",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "Geschäftsbereich",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Geschäftsbereich",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header",
+                    "runs": [
+                      {
+                        "text": "Geschäftsbereich",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "VerwaltungseinheitGeschäftsbereich"
+        },
+        {
+          "type": "paragraph"
+        }
+      ],
+      "field_codes": []
+    }
+  ],
+  "footers": [
+    {
+      "part_name": "word/footer1.xml",
+      "text": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Fuzeile",
+          "style_name": "footer"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "text": "protokoll.dotx9/99/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "protokoll.dotx9/99/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "9/99/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "text": "protokoll.dotx8/98/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "protokoll.dotx8/98/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "8/98/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "text": "n-protokoll-1.docx9/99/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "n-protokoll-1.docx9/99/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "9/99/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    }
+  ],
+  "glossary": {},
+  "custom_xml": [
+    {
+      "part_name": "customXml/item1.xml",
+      "root_element": "Sources",
+      "text": "Authr Book {BA01FD2C-EDFC-4D13-8F46-679005D5D2FB} Autor Anton Titel Jahr Ort Verleger 1"
+    },
+    {
+      "part_name": "customXml/itemProps1.xml",
+      "root_element": "datastoreItem",
+      "text": ""
+    }
+  ],
+  "footnotes": [],
+  "endnotes": []
+}

@@ -1,0 +1,5748 @@
+{
+  "source_path_in_archive": "vorlagen/abnahmeprotokoll.dotx",
+  "source_file_name": "abnahmeprotokoll.dotx",
+  "source_format": "DOTX",
+  "extracted_at_utc": "2026-04-07T21:31:16.003496+00:00",
+  "document_properties": {
+    "core": {
+      "title": "",
+      "subject": "",
+      "creator": "",
+      "keywords": "",
+      "description": "",
+      "lastModifiedBy": "",
+      "revision": "1",
+      "created": "2026-01-26T10:29:00Z",
+      "modified": "2026-01-26T10:29:00Z",
+      "category": ""
+    },
+    "app": {
+      "Template": "",
+      "TotalTime": "0",
+      "Pages": "6",
+      "Words": "559",
+      "Characters": "4011",
+      "Application": "Microsoft Office Word",
+      "DocSecurity": "0",
+      "Lines": "401",
+      "Paragraphs": "240",
+      "ScaleCrop": "false",
+      "Manager": "",
+      "Company": "",
+      "LinksUpToDate": "false",
+      "CharactersWithSpaces": "4330",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0000"
+    },
+    "custom": {}
+  },
+  "settings": {
+    "update_fields_on_open": false,
+    "track_revisions": false,
+    "default_tab_stop": "708",
+    "zoom_percent": "100"
+  },
+  "package_parts": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "docProps/app.xml",
+    "docProps/core.xml",
+    "word/_rels/document.xml.rels",
+    "word/_rels/header3.xml.rels",
+    "word/document.xml",
+    "word/endnotes.xml",
+    "word/fontTable.xml",
+    "word/footer1.xml",
+    "word/footer2.xml",
+    "word/footer3.xml",
+    "word/footer4.xml",
+    "word/footnotes.xml",
+    "word/glossary/_rels/document.xml.rels",
+    "word/glossary/document.xml",
+    "word/glossary/fontTable.xml",
+    "word/glossary/settings.xml",
+    "word/glossary/styles.xml",
+    "word/glossary/webSettings.xml",
+    "word/header1.xml",
+    "word/header2.xml",
+    "word/header3.xml",
+    "word/media/image_rId1_header3.png",
+    "word/numbering.xml",
+    "word/settings.xml",
+    "word/styles.xml",
+    "word/theme/theme1.xml",
+    "word/webSettings.xml"
+  ],
+  "summary": {
+    "body_text_characters": 3280,
+    "body_paragraph_count": 232,
+    "body_table_count": 12,
+    "section_count": 3,
+    "header_count": 3,
+    "footer_count": 4,
+    "content_control_count": 6,
+    "field_code_count": 26,
+    "glossary_present": true,
+    "glossary_doc_part_count": 2,
+    "footnote_count": 0,
+    "endnote_count": 0
+  },
+  "headings": [],
+  "used_styles": {
+    "paragraph_styles": [
+      {
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "style_id": "HTabBeispiel85ptF",
+        "style_name": "H_Tab_Beispiel 8.5pt (F)"
+      },
+      {
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "style_id": "HTabTit65pt",
+        "style_name": "H_Tab_Tit 6.5 pt"
+      },
+      {
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt"
+      },
+      {
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt"
+      },
+      {
+        "style_id": "Inhaltsverzeichnisberschrift",
+        "style_name": "TOC Heading"
+      },
+      {
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt"
+      },
+      {
+        "style_id": "Titel",
+        "style_name": "Title"
+      },
+      {
+        "style_id": "Verzeichnis1",
+        "style_name": "toc 1"
+      },
+      {
+        "style_id": "Verzeichnis2",
+        "style_name": "toc 2"
+      }
+    ],
+    "table_styles": [
+      {
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1"
+      }
+    ]
+  },
+  "detected_placeholders": [
+    {
+      "kind": "content_control_alias",
+      "value": "Dokument Status"
+    },
+    {
+      "kind": "content_control_tag",
+      "value": "Dokument Status"
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "in Arbeit",
+        "value": "in Arbeit"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "geprüft",
+        "value": "geprüft"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "fertiggestellt",
+        "value": "fertiggestellt"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "abgenommen",
+        "value": "abgenommen"
+      }
+    },
+    {
+      "kind": "content_control_placeholder_doc_part",
+      "value": "61C4B9589DB149138F4BB98528B522D6"
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "Nicht klassifiziert",
+        "value": "Nicht klassifiziert"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "INTERN",
+        "value": "INTERN"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "VERTRAULICH",
+        "value": "VERTRAULICH"
+      }
+    },
+    {
+      "kind": "content_control_choice",
+      "value": {
+        "display_text": "GEHEIM",
+        "value": "GEHEIM"
+      }
+    },
+    {
+      "kind": "content_control_placeholder_doc_part",
+      "value": "568E0EC9EFA34B9B9828E6D94795E264"
+    },
+    {
+      "kind": "glossary_doc_part",
+      "value": "Status auswählen"
+    },
+    {
+      "kind": "glossary_doc_part",
+      "value": "Klassifizierung auswählen"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[Text]"
+    },
+    {
+      "kind": "square_brackets",
+      "value": "[1]"
+    },
+    {
+      "kind": "ellipsis",
+      "value": "..."
+    }
+  ],
+  "field_codes": [
+    {
+      "part_name": "word/document.xml",
+      "code": "TOC \\o \"1-3\" \\h \\z \\u"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243101 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243102 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243103 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243104 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243105 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243106 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243107 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243108 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243109 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243110 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243111 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243112 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243113 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "PAGEREF _Toc210243114 \\h"
+    },
+    {
+      "part_name": "word/document.xml",
+      "code": "DATE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "PAGE \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "FILENAME \\* Lower \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "code": "NUMPAGES \\* MERGEFORMAT"
+    }
+  ],
+  "content_controls": [
+    {
+      "type": "content_control",
+      "alias": "Dokument Status",
+      "tag": "Dokument Status",
+      "id": "763658595",
+      "control_kinds": [
+        "dropDownList"
+      ],
+      "placeholder_doc_part": "61C4B9589DB149138F4BB98528B522D6",
+      "choice_items": [
+        {
+          "display_text": "in Arbeit",
+          "value": "in Arbeit"
+        },
+        {
+          "display_text": "geprüft",
+          "value": "geprüft"
+        },
+        {
+          "display_text": "fertiggestellt",
+          "value": "fertiggestellt"
+        },
+        {
+          "display_text": "abgenommen",
+          "value": "abgenommen"
+        }
+      ],
+      "text": "in Arbeit",
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "1673300542",
+      "control_kinds": [
+        "comboBox"
+      ],
+      "placeholder_doc_part": "568E0EC9EFA34B9B9828E6D94795E264",
+      "choice_items": [
+        {
+          "display_text": "Nicht klassifiziert",
+          "value": "Nicht klassifiziert"
+        },
+        {
+          "display_text": "INTERN",
+          "value": "INTERN"
+        },
+        {
+          "display_text": "VERTRAULICH",
+          "value": "VERTRAULICH"
+        },
+        {
+          "display_text": "GEHEIM",
+          "value": "GEHEIM"
+        }
+      ],
+      "text": "Nicht klassifiziert",
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "-1349096782",
+      "control_kinds": [
+        "docPartObj",
+        "rPr"
+      ],
+      "text": "Inhaltsverzeichnis0. Einleitung 30.1 Referenzierte Dokumente 30.2 Mitgeltende Unterlagen 30.3 Definitionen und Abkürzungen 30.4 Vorgaben, Methoden und Werkzeuge 31. Abnahmegegenstand 42. Abnahmebeteiligte 43. Grundlagen 44. Abnahmeverfahren 45. Abnahmekriterien mit Mängelklassen 46. Lieferergebnisse und Mängel 57. Abnahmeereignis 68. Unterschriften 69. Dokument-Protokoll 7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Inhaltsverzeichnis",
+          "style_id": "Inhaltsverzeichnisberschrift",
+          "style_name": "TOC Heading",
+          "runs": [
+            {
+              "text": "Inhaltsverzeichnis",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "0. Einleitung 3",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "TOC \\o \"1-3\" \\h \\z \\u",
+            "PAGEREF _Toc210243101 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "0. Einleitung 3",
+              "relationship_id": null,
+              "anchor": "_Toc210243101",
+              "target": null,
+              "target_mode": null
+            }
+          ],
+          "runs": [
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "begin"
+              ],
+              "instr_text": []
+            },
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": [
+                "TOC \\o \"1-3\" \\h \\z \\u"
+              ]
+            },
+            {
+              "text": "",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "separate"
+              ],
+              "instr_text": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "0.1 Referenzierte Dokumente 3",
+          "style_id": "Verzeichnis2",
+          "style_name": "toc 2",
+          "field_codes": [
+            "PAGEREF _Toc210243102 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "0.1 Referenzierte Dokumente 3",
+              "relationship_id": null,
+              "anchor": "_Toc210243102",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "0.2 Mitgeltende Unterlagen 3",
+          "style_id": "Verzeichnis2",
+          "style_name": "toc 2",
+          "field_codes": [
+            "PAGEREF _Toc210243103 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "0.2 Mitgeltende Unterlagen 3",
+              "relationship_id": null,
+              "anchor": "_Toc210243103",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "0.3 Definitionen und Abkürzungen 3",
+          "style_id": "Verzeichnis2",
+          "style_name": "toc 2",
+          "field_codes": [
+            "PAGEREF _Toc210243104 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "0.3 Definitionen und Abkürzungen 3",
+              "relationship_id": null,
+              "anchor": "_Toc210243104",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "0.4 Vorgaben, Methoden und Werkzeuge 3",
+          "style_id": "Verzeichnis2",
+          "style_name": "toc 2",
+          "field_codes": [
+            "PAGEREF _Toc210243105 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "0.4 Vorgaben, Methoden und Werkzeuge 3",
+              "relationship_id": null,
+              "anchor": "_Toc210243105",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Abnahmegegenstand 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243106 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "1. Abnahmegegenstand 4",
+              "relationship_id": null,
+              "anchor": "_Toc210243106",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Abnahmebeteiligte 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243107 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "2. Abnahmebeteiligte 4",
+              "relationship_id": null,
+              "anchor": "_Toc210243107",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Grundlagen 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243108 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "3. Grundlagen 4",
+              "relationship_id": null,
+              "anchor": "_Toc210243108",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Abnahmeverfahren 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243109 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "4. Abnahmeverfahren 4",
+              "relationship_id": null,
+              "anchor": "_Toc210243109",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Abnahmekriterien mit Mängelklassen 4",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243110 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "5. Abnahmekriterien mit Mängelklassen 4",
+              "relationship_id": null,
+              "anchor": "_Toc210243110",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "6. Lieferergebnisse und Mängel 5",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243111 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "6. Lieferergebnisse und Mängel 5",
+              "relationship_id": null,
+              "anchor": "_Toc210243111",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "7. Abnahmeereignis 6",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243112 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "7. Abnahmeereignis 6",
+              "relationship_id": null,
+              "anchor": "_Toc210243112",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "8. Unterschriften 6",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243113 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "8. Unterschriften 6",
+              "relationship_id": null,
+              "anchor": "_Toc210243113",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "9. Dokument-Protokoll 7",
+          "style_id": "Verzeichnis1",
+          "style_name": "toc 1",
+          "field_codes": [
+            "PAGEREF _Toc210243114 \\h"
+          ],
+          "hyperlinks": [
+            {
+              "text": "9. Dokument-Protokoll 7",
+              "relationship_id": null,
+              "anchor": "_Toc210243114",
+              "target": null,
+              "target_mode": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "",
+              "bold": true,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [
+                "end"
+              ],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "-2072418122",
+      "control_kinds": [
+        "checkbox"
+      ],
+      "text": "☐",
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "425467209",
+      "control_kinds": [
+        "checkbox"
+      ],
+      "text": "☐",
+      "part_name": "word/document.xml"
+    },
+    {
+      "type": "content_control",
+      "id": "-1379460744",
+      "control_kinds": [
+        "checkbox"
+      ],
+      "text": "☐",
+      "part_name": "word/document.xml"
+    }
+  ],
+  "document": {
+    "part_name": "word/document.xml",
+    "text": "AbnahmeprotokollProjektname / Projektnummer Bearbeitungsdatum 26.01.2026Version 0.1Dokument Status in ArbeitKlassifizierung Nicht klassifiziertAutor/-in …Projektleiter/in ProjektleiterAuftraggeber/in AuftraggeberVerwaltungseinheit VerwaltungseinheitGeschäftsbereich GeschäftsbereichInnenauftragsnr. InnenauftragsnummerProjektnummer ProjektnummerPFCT Bund Link zuDiese Tabelle bei Bedarf anpassen vor Verwendung.\nInhaltsverzeichnis0. Einleitung 30.1 Referenzierte Dokumente 30.2 Mitgeltende Unterlagen 30.3 Definitionen und Abkürzungen 30.4 Vorgaben, Methoden und Werkzeuge 31. Abnahmegegenstand 42. Abnahmebeteiligte 43. Grundlagen 44. Abnahmeverfahren 45. Abnahmekriterien mit Mängelklassen 46. Lieferergebnisse und Mängel 57. Abnahmeereignis 68. Unterschriften 69. Dokument-Protokoll 7\nEinleitungDas Abnahmeprotokoll wird bei den Entscheiden Vorabnahme, Abnahme und Abnahme Migration erstellt. Es dokumentiert die Erfüllung der Vereinbarung über die Lösungseigenschaften (Produkt/Dienstleistung/System) und bestehende Mängel. Es ist ein rechtlich verbindliches Dokument.Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.Farbige, kursive Texte gelten als Hilfe-/Tabellenbeispiel-Texte und sind vor der Freigabe des Dokuments zu löschen. [Text] sind Felder.Referenzierte DokumenteNr.NameNummer / Link[1]…#Mitgeltende Unterlagen NameNummer / Link…#Definitionen und AbkürzungenAbkürzungBedeutungCHFSchweizer FrankenPTPersonentageAGAuftraggeberPLProjektleiterVorgaben, Methoden und WerkzeugeTitelVorgabe / Methode / WerkzeugVersionProjektmanagementmethodeHERMESAktuell gültige VersionDokumentationMS Office Palette gem. VorlageProzesse / AbläufeMS PowerPoint, VisioBeschaffungGemäss Vorgabe StammorganisationDokumentenablageGemäss Vorgabe StammorganisationReportingGemäss Vorgabe Stammorganisation\nAbnahmegegenstandAbnahmegegenstandBeschreibung…Softwareprodukt xyAnwendung eingesetzt im Bereich xyz…AbnahmebeteiligteRolleName…Auftraggeber / KundeRolf BühlerProjektleiterRoland FreyLieferantPatrick Hoose…GrundlagenBezeichnungVersions-Nr. / Bezeichnung / Datum…Vertrag30.03.2022…Abnahmeverfahren…Abnahmekriterien mit Mängelklassen…Mängelklassifizierung gemäss Testrahmen aus Testkonzept kopieren. Allfällige Änderungen an den Mängelklassen sind im Testkonzept anzupassen.Lieferergebnisse und MängelRef.-\nNr.Lieferergebnis\nBeschreibung AnforderungMängelbeschreibungMängel-\nklasseMassnahmeVerantwortlichTermin01…tt.mm.jjjj01Kundenverwaltung Erfassung NeukundenAdresse wird nicht\nrichtig gespeichert3MangelkorrekturHans Müllertt.mm.jjjj…Abnahmeereignis☐ Das Abnahmeobjekt wurde geprüft ohne Mängelanzeige. Die Abnahme erfolgt ohne Vorbehalt.☐ Das Abnahmeobjekt wurde geprüft und unter Vorbehalt abgenommen. Die Mängel sind innerhalb der vorgegebenen Frist zu beheben und die Lösung ist mittels Nachprüfung nochmals abzunehmen.☐ Das Abnahmeobjekt wurde geprüft.\nDie Abnahme wird verweigert.UnterschriftenBeschreibung in Bezug auf die Unterschriften, allenfalls in einem separaten Dokument, dann notieren, wo abgelegtNameFunktionOrt und DatumUnterschriftDokument-ProtokollÄnderungskontrolleVersionNameDatumBemerkungen0.1tt.mm.jjjjPrüfungVersionNameDatumBemerkungen0.tt.mm.jjjjFreigabeVersionNameDatumBemerkungen1.0tt.mm.jjjj",
+    "blocks": [
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abnahmeprotokoll",
+        "style_id": "Titel",
+        "style_name": "Title",
+        "bookmarks": [
+          {
+            "name": "VN",
+            "id": "0"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Abnahmeprotokoll",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektname / Projektnummer",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektname / Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bearbeitungsdatum 26.01.2026",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "field_codes": [
+          "DATE \\* MERGEFORMAT"
+        ],
+        "runs": [
+          {
+            "text": "Bearbeitungsdatum",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Version 0.1",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Version",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "0.1",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Dokument Status in Arbeit",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Dokument Status",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Klassifizierung Nicht klassifiziert",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "bookmarks": [
+          {
+            "name": "Klassifizierung",
+            "id": "1"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Klassifizierung",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Autor/-in …",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Autor/-in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektleiter/in Projektleiter",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektleiter/in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Projektleiter",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Auftraggeber/in Auftraggeber",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Auftraggeber/in",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Auftraggeber",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Verwaltungseinheit Verwaltungseinheit",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Verwaltungseinheit",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Verwaltungseinheit",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Geschäftsbereich Geschäftsbereich",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Geschäftsbereich",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Geschäftsbereich",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Innenauftragsnr. Innenauftragsnummer",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Innenauftragsnr.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Innenauftragsnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Projektnummer Projektnummer",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Projektnummer",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "PFCT Bund Link zu",
+        "style_id": "Text85pt",
+        "style_name": "Text 8.5 pt",
+        "runs": [
+          {
+            "text": "PFCT Bund",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Link zu",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Diese Tabelle bei Bedarf anpassen vor Verwendung.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Diese Tabelle bei Bedarf anpassen vor Verwendung.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HTabText85pt",
+        "style_name": "H_Tab_Text 8.5 pt"
+      },
+      {
+        "type": "content_control",
+        "id": "-1349096782",
+        "control_kinds": [
+          "docPartObj",
+          "rPr"
+        ],
+        "text": "Inhaltsverzeichnis0. Einleitung 30.1 Referenzierte Dokumente 30.2 Mitgeltende Unterlagen 30.3 Definitionen und Abkürzungen 30.4 Vorgaben, Methoden und Werkzeuge 31. Abnahmegegenstand 42. Abnahmebeteiligte 43. Grundlagen 44. Abnahmeverfahren 45. Abnahmekriterien mit Mängelklassen 46. Lieferergebnisse und Mängel 57. Abnahmeereignis 68. Unterschriften 69. Dokument-Protokoll 7",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Inhaltsverzeichnis",
+            "style_id": "Inhaltsverzeichnisberschrift",
+            "style_name": "TOC Heading",
+            "runs": [
+              {
+                "text": "Inhaltsverzeichnis",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "0. Einleitung 3",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "TOC \\o \"1-3\" \\h \\z \\u",
+              "PAGEREF _Toc210243101 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "0. Einleitung 3",
+                "relationship_id": null,
+                "anchor": "_Toc210243101",
+                "target": null,
+                "target_mode": null
+              }
+            ],
+            "runs": [
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "begin"
+                ],
+                "instr_text": []
+              },
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": [
+                  "TOC \\o \"1-3\" \\h \\z \\u"
+                ]
+              },
+              {
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "separate"
+                ],
+                "instr_text": []
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "0.1 Referenzierte Dokumente 3",
+            "style_id": "Verzeichnis2",
+            "style_name": "toc 2",
+            "field_codes": [
+              "PAGEREF _Toc210243102 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "0.1 Referenzierte Dokumente 3",
+                "relationship_id": null,
+                "anchor": "_Toc210243102",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "0.2 Mitgeltende Unterlagen 3",
+            "style_id": "Verzeichnis2",
+            "style_name": "toc 2",
+            "field_codes": [
+              "PAGEREF _Toc210243103 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "0.2 Mitgeltende Unterlagen 3",
+                "relationship_id": null,
+                "anchor": "_Toc210243103",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "0.3 Definitionen und Abkürzungen 3",
+            "style_id": "Verzeichnis2",
+            "style_name": "toc 2",
+            "field_codes": [
+              "PAGEREF _Toc210243104 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "0.3 Definitionen und Abkürzungen 3",
+                "relationship_id": null,
+                "anchor": "_Toc210243104",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "0.4 Vorgaben, Methoden und Werkzeuge 3",
+            "style_id": "Verzeichnis2",
+            "style_name": "toc 2",
+            "field_codes": [
+              "PAGEREF _Toc210243105 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "0.4 Vorgaben, Methoden und Werkzeuge 3",
+                "relationship_id": null,
+                "anchor": "_Toc210243105",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "1. Abnahmegegenstand 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243106 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "1. Abnahmegegenstand 4",
+                "relationship_id": null,
+                "anchor": "_Toc210243106",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "2. Abnahmebeteiligte 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243107 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "2. Abnahmebeteiligte 4",
+                "relationship_id": null,
+                "anchor": "_Toc210243107",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "3. Grundlagen 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243108 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "3. Grundlagen 4",
+                "relationship_id": null,
+                "anchor": "_Toc210243108",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "4. Abnahmeverfahren 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243109 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "4. Abnahmeverfahren 4",
+                "relationship_id": null,
+                "anchor": "_Toc210243109",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "5. Abnahmekriterien mit Mängelklassen 4",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243110 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "5. Abnahmekriterien mit Mängelklassen 4",
+                "relationship_id": null,
+                "anchor": "_Toc210243110",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "6. Lieferergebnisse und Mängel 5",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243111 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "6. Lieferergebnisse und Mängel 5",
+                "relationship_id": null,
+                "anchor": "_Toc210243111",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "7. Abnahmeereignis 6",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243112 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "7. Abnahmeereignis 6",
+                "relationship_id": null,
+                "anchor": "_Toc210243112",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "8. Unterschriften 6",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243113 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "8. Unterschriften 6",
+                "relationship_id": null,
+                "anchor": "_Toc210243113",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "9. Dokument-Protokoll 7",
+            "style_id": "Verzeichnis1",
+            "style_name": "toc 1",
+            "field_codes": [
+              "PAGEREF _Toc210243114 \\h"
+            ],
+            "hyperlinks": [
+              {
+                "text": "9. Dokument-Protokoll 7",
+                "relationship_id": null,
+                "anchor": "_Toc210243114",
+                "target": null,
+                "target_mode": null
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "runs": [
+              {
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [
+                  "end"
+                ],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Einleitung",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc210243101",
+            "id": "2"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Einleitung",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Das Abnahmeprotokoll wird bei den Entscheiden Vorabnahme, Abnahme und Abnahme Migration erstellt. Es dokumentiert die Erfüllung der Vereinbarung über die Lösungseigenschaften (Produkt/Dienstleistung/System) und bestehende Mängel. Es ist ein rechtlich verbindliches Dokument.",
+        "bookmarks": [
+          {
+            "name": "_Toc14859779",
+            "id": "3"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Das Abnahmeprotokoll wird bei den Entscheiden Vorabnahme, Abnahme und Abnahme Migration erstellt. Es dokumentiert die Erfüllung der Vereinbarung über die Lösungseigenschaften (Produkt/Dienstleistung/System) und bestehende Mängel. Es ist ein rechtlich verbindliches Dokument.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.",
+        "runs": [
+          {
+            "text": "Bei den auftretenden Rollen ist ebenfalls die weibliche Form gemeint, auch wenn sie nicht explizit aufgeführt wird.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Farbige, kursive Texte gelten als Hilfe-/Tabellenbeispiel-Texte und sind vor der Freigabe des Dokuments zu löschen. [Text] sind Felder.",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Farbige, k",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "ursive Texte gelten als Hilfe",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "-/",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Tabellenbeispiel-T",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "exte",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "und",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "sind vor der Freigabe des Dokuments zu löschen.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "[Text] sind Felder.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Referenzierte Dokumente",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc210243102",
+            "id": "4"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Referenzierte Dokumente",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Nr.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nr.",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nr.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nummer / Link",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nummer / Link",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nummer / Link",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "[1]",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "[1]",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "[1]",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "#",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "#",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "#",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "Nr.NameNummer / Link[1]…#"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mitgeltende Unterlagen",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc210243103",
+            "id": "5"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Mitgeltende Unterlagen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Nummer / Link",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nummer / Link",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Nummer / Link",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "#",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "#",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "#",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "NameNummer / Link…#"
+      },
+      {
+        "type": "paragraph",
+        "text": "Definitionen und Abkürzungen",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc210243104",
+            "id": "6"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Definitionen und Abkürzungen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Abkürzung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Abkürzung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Abkürzung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bedeutung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bedeutung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bedeutung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "CHF",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "CHF",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "CHF",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Schweizer Franken",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Schweizer Franken",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Schweizer Franken",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "PT",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PT",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "PT",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Personentage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Personentage",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Personentage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "AG",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "AG",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "AG",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Auftraggeber",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Auftraggeber",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Auftraggeber",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "PL",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PL",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "PL",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Projektleiter",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektleiter",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Projektleiter",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "AbkürzungBedeutungCHFSchweizer FrankenPTPersonentageAGAuftraggeberPLProjektleiter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vorgaben, Methoden und Werkzeuge",
+        "style_id": "Hberschrift2105pt",
+        "style_name": "H_Überschrift 2 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc210243105",
+            "id": "7"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Vorgaben, Methoden und Werkzeuge",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Titel",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titel",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Titel",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Vorgabe / Methode / Werkzeug",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Vorgabe / Methode / Werkzeug",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Vorgabe / Methode / Werkzeug",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Projektmanagementmethode",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektmanagementmethode",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Projektmanagementmethode",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "HERMES",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "HERMES",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "hyperlinks": [
+                    {
+                      "text": "HERMES",
+                      "relationship_id": "rId7",
+                      "anchor": null,
+                      "target": "http://www.hermes.admin.ch/",
+                      "target_mode": "External"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Aktuell gültige Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aktuell gültige Version",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Aktuell gültige",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Dokumentation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dokumentation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Dokumentation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MS Office Palette gem. Vorlage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MS Office Palette gem. Vorlage",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "MS Office Palette",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "gem. Vorlage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Prozesse / Abläufe",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prozesse / Abläufe",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Prozesse / Abläufe",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "MS PowerPoint, Visio",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MS PowerPoint, Visio",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "MS PowerPoint, Visio",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Beschaffung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Beschaffung",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Beschaffung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Dokumentenablage",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Dokumentenablage",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Dokumentenablage",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Reporting",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Reporting",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Reporting",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Gemäss Vorgabe Stammorganisation",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Gemäss Vorgabe Stammorganisation",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "Gemäss Vorgabe Stammorganisation",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "TitelVorgabe / Methode / WerkzeugVersionProjektmanagementmethodeHERMESAktuell gültige VersionDokumentationMS Office Palette gem. VorlageProzesse / AbläufeMS PowerPoint, VisioBeschaffungGemäss Vorgabe StammorganisationDokumentenablageGemäss Vorgabe StammorganisationReportingGemäss Vorgabe Stammorganisation"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abnahmegegenstand",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc208423781",
+            "id": "8"
+          },
+          {
+            "name": "_Toc208819005",
+            "id": "9"
+          },
+          {
+            "name": "_Toc208819692",
+            "id": "10"
+          },
+          {
+            "name": "_Toc208423782",
+            "id": "11"
+          },
+          {
+            "name": "_Toc208819006",
+            "id": "12"
+          },
+          {
+            "name": "_Toc208819693",
+            "id": "13"
+          },
+          {
+            "name": "_Toc200030342",
+            "id": "14"
+          },
+          {
+            "name": "_Toc210243106",
+            "id": "15"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Abnahmegegenstand",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Abnahmegegenstand",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Abnahmegegenstand",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Abnahmegegenstand",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Beschreibung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Beschreibung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Beschreibung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Softwareprodukt xy",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Softwareprodukt xy",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Softwareprodukt xy",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Anwendung eingesetzt im Bereich xyz",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Anwendung eingesetzt im Bereich xyz",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Anwendung eingesetzt im Bereich xyz",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "AbnahmegegenstandBeschreibung…Softwareprodukt xyAnwendung eingesetzt im Bereich xyz…"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abnahmebeteiligte",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc530137863",
+            "id": "16"
+          },
+          {
+            "name": "_Toc200030343",
+            "id": "17"
+          },
+          {
+            "name": "_Toc210243107",
+            "id": "18"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Abnahmebeteiligte",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Rolle",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Rolle",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Rolle",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Auftraggeber / Kunde",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Auftraggeber / Kunde",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Auftraggeber / Kunde",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Rolf Bühler",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Rolf Bühler",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Rolf Bühler",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Projektleiter",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Projektleiter",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Projektleiter",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Roland Frey",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Roland Frey",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Roland Frey",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Lieferant",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Lieferant",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Lieferant",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Patrick Hoose",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Patrick Hoose",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Patrick Hoose",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "RolleName…Auftraggeber / KundeRolf BühlerProjektleiterRoland FreyLieferantPatrick Hoose…"
+      },
+      {
+        "type": "paragraph",
+        "text": "Grundlagen",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc530137864",
+            "id": "19"
+          },
+          {
+            "name": "_Toc200030344",
+            "id": "20"
+          },
+          {
+            "name": "_Toc210243108",
+            "id": "21"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Grundlagen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Bezeichnung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bezeichnung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bezeichnung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Versions-Nr. / Bezeichnung / Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Versions-Nr. / Bezeichnung / Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Versions-Nr. / Bezeichnung / Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "Vertrag",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Vertrag",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Vertrag",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "30.03.2022",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "30.03.2022",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "30.03.2022",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "BezeichnungVersions-Nr. / Bezeichnung / Datum…Vertrag30.03.2022…"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abnahmeverfahren",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc530137865",
+            "id": "22"
+          },
+          {
+            "name": "_Toc200030345",
+            "id": "23"
+          },
+          {
+            "name": "_Toc210243109",
+            "id": "24"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Abnahmeverfahren",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Abnahmekriterien mit Mängelklassen",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc530137866",
+            "id": "25"
+          },
+          {
+            "name": "_Toc200030346",
+            "id": "26"
+          },
+          {
+            "name": "_Toc210243110",
+            "id": "27"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Abnahmekriterien mit Mängelklassen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "…",
+        "runs": [
+          {
+            "text": "…",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Mängelklassifizierung gemäss Testrahmen aus Testkonzept kopieren. Allfällige Änderungen an den Mängelklassen sind im Testkonzept anzupassen.",
+        "runs": [
+          {
+            "text": "Mängelklassifizierung gemäss Testrahmen aus Testkonzept kopieren. Allfällige Änderungen an den Mängelklassen sind im Testkonzept anzupassen",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": ".",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lieferergebnisse und Mängel",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc530137867",
+            "id": "28"
+          },
+          {
+            "name": "_Toc200030347",
+            "id": "29"
+          },
+          {
+            "name": "_Toc210243111",
+            "id": "30"
+          },
+          {
+            "name": "_Toc98597207",
+            "id": "31"
+          },
+          {
+            "name": "_Toc208304637",
+            "id": "32"
+          },
+          {
+            "name": "_Toc14859780",
+            "id": "33"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Lieferergebnisse und Mängel",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Ref.-\nNr.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Ref.-\nNr.",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Ref.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "-",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Nr.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Lieferergebnis\nBeschreibung Anforderung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Lieferergebnis\nBeschreibung Anforderung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Lieferergebnis",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Beschreibung Anforderung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Mängelbeschreibung",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mängelbeschreibung",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Mängelbeschreibung",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Mängel-\nklasse",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mängel-\nklasse",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Mängel-",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "klasse",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Massnahme",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Massnahme",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Massnahme",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Verantwortlich",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Verantwortlich",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Verantwortlich",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Termin",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Termin",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Termin",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "01",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "01",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "01",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "tt.mm.jjjj",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "tt.mm.jjjj",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "tt.mm.jjjj",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "01",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "01",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "01",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Kundenverwaltung Erfassung Neukunden",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Kundenverwaltung Erfassung Neukunden",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Kundenverwaltung Erfassung Neukunden",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Adresse wird nicht\nrichtig gespeichert",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Adresse wird nicht\nrichtig gespeichert",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Adresse wird nicht",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "richtig gespeichert",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "3",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "3",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "3",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Mangelkorrektur",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mangelkorrektur",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Mangelkorrektur",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Hans Müller",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Hans Müller",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "Hans Müller",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "tt.mm.jjjj",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "tt.mm.jjjj",
+                  "style_id": "HTabBeispiel85ptF",
+                  "style_name": "H_Tab_Beispiel 8.5pt (F)",
+                  "runs": [
+                    {
+                      "text": "tt.mm.jjjj",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "none",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "…",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "…",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "…",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "Ref.-\nNr.Lieferergebnis\nBeschreibung AnforderungMängelbeschreibungMängel-\nklasseMassnahmeVerantwortlichTermin01…tt.mm.jjjj01Kundenverwaltung Erfassung NeukundenAdresse wird nicht\nrichtig gespeichert3MangelkorrekturHans Müllertt.mm.jjjj…"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abnahmeereignis",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc195023360",
+            "id": "34"
+          },
+          {
+            "name": "_Toc210243112",
+            "id": "35"
+          },
+          {
+            "name": "_Toc55109233",
+            "id": "36"
+          },
+          {
+            "name": "_Toc536644260",
+            "id": "37"
+          },
+          {
+            "name": "_Toc493855096",
+            "id": "38"
+          },
+          {
+            "name": "_Toc528003889",
+            "id": "39"
+          },
+          {
+            "name": "_Toc529897069",
+            "id": "40"
+          },
+          {
+            "name": "_Toc98839319",
+            "id": "41"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Abnahmeereignis",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "☐ Das Abnahmeobjekt wurde geprüft ohne Mängelanzeige. Die Abnahme erfolgt ohne Vorbehalt.",
+        "runs": [
+          {
+            "text": "Das Abnahmeobjekt wurde geprüft ohne Mängelanzeige. Die Abnahme erfolgt ohne Vorbehalt.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "☐ Das Abnahmeobjekt wurde geprüft und unter Vorbehalt abgenommen. Die Mängel sind innerhalb der vorgegebenen Frist zu beheben und die Lösung ist mittels Nachprüfung nochmals abzunehmen.",
+        "runs": [
+          {
+            "text": "Das Abnahmeobjekt wurde geprüft und unter Vorbehalt abgenommen. Die Mängel sind innerhalb der vorgegebenen Frist zu beheben und die Lösung ist mittels Nachprüfung nochmals abzunehmen.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "☐ Das Abnahmeobjekt wurde geprüft.\nDie Abnahme wird verweigert.",
+        "runs": [
+          {
+            "text": "Das Abnahmeobjekt wurde geprüft.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          },
+          {
+            "text": "Die Abnahme wird verweigert.",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Unterschriften",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc195023361",
+            "id": "42"
+          },
+          {
+            "name": "_Toc210243113",
+            "id": "43"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Unterschriften",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Beschreibung in Bezug auf die Unterschriften, allenfalls in einem separaten Dokument, dann notieren, wo abgelegt",
+        "style_id": "HHilfstextfarbigkursiv105ptF",
+        "style_name": "H_Hilfstext (farbig/ kursiv) 10.5pt (F)",
+        "runs": [
+          {
+            "text": "Beschreibung in Bezug auf die Unterschriften, allenfalls in einem separaten Dokument, dann notieren, wo abgelegt",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Funktion",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Funktion",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Funktion",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Ort und Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Ort und Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Ort und",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    },
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Unterschrift",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Unterschrift",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Unterschrift",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                },
+                {
+                  "type": "paragraph"
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                },
+                {
+                  "type": "paragraph"
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph"
+                },
+                {
+                  "type": "paragraph"
+                },
+                {
+                  "type": "paragraph"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "NameFunktionOrt und DatumUnterschrift"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dokument-Protokoll",
+        "style_id": "Hberschrift1105pt",
+        "style_name": "H_Überschrift 1 10.5pt",
+        "bookmarks": [
+          {
+            "name": "_Toc210243114",
+            "id": "44"
+          }
+        ],
+        "runs": [
+          {
+            "text": "Dokument-Protokoll",
+            "bold": false,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Änderungskontrolle",
+        "runs": [
+          {
+            "text": "Änderungskontrolle",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "bookmarks": [
+                    {
+                      "name": "_Hlk206692389",
+                      "id": "45"
+                    }
+                  ],
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "0.1",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "0.1",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "0.1",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "tt.mm.jjjj",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "tt.mm.jjjj",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "tt.mm.jjjj",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen0.1tt.mm.jjjj"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prüfung",
+        "runs": [
+          {
+            "text": "Prüfung",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "0.",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "0.",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "0.",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "tt.mm.jjjj",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "tt.mm.jjjj",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "tt.mm.jjjj",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen0.tt.mm.jjjj"
+      },
+      {
+        "type": "paragraph",
+        "text": "Freigabe",
+        "runs": [
+          {
+            "text": "Freigabe",
+            "bold": true,
+            "italic": false,
+            "underline": "",
+            "field_char_types": [],
+            "instr_text": []
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "style_id": "BETabelle1",
+        "style_name": "BE: Tabelle 1",
+        "rows": [
+          [
+            {
+              "text": "Version",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Version",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Version",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Name",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Name",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Name",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Datum",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Datum",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Datum",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Bemerkungen",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Bemerkungen",
+                  "style_id": "HTabTit65pt",
+                  "style_name": "H_Tab_Tit 6.5 pt",
+                  "runs": [
+                    {
+                      "text": "Bemerkungen",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "1.0",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "1.0",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "1.0",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "tt.mm.jjjj",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "tt.mm.jjjj",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt",
+                  "runs": [
+                    {
+                      "text": "tt.mm.jjjj",
+                      "bold": false,
+                      "italic": false,
+                      "underline": "",
+                      "field_char_types": [],
+                      "instr_text": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "grid_span": null,
+              "v_merge": null,
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "style_id": "HTabText85pt",
+                  "style_name": "H_Tab_Text 8.5 pt"
+                }
+              ]
+            }
+          ]
+        ],
+        "text": "VersionNameDatumBemerkungen1.0tt.mm.jjjj"
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "headers": [
+    {
+      "part_name": "word/header1.xml",
+      "text": "AbnahmeprotokollProjektname / Projektnummer",
+      "blocks": [
+        {
+          "type": "table",
+          "style_id": "TabelleohneRahmen",
+          "style_name": "Tabelle ohne Rahmen",
+          "rows": [
+            [
+              {
+                "text": "AbnahmeprotokollProjektname / Projektnummer",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Abnahmeprotokoll",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Abnahmeprotokoll",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Projektname / Projektnummer",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Projektname / Projektnummer",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "AbnahmeprotokollProjektname / Projektnummer"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/header2.xml",
+      "text": "AbnahmeprotokollProjektname / Projektnummer",
+      "blocks": [
+        {
+          "type": "table",
+          "style_id": "TabelleohneRahmen",
+          "style_name": "Tabelle ohne Rahmen",
+          "rows": [
+            [
+              {
+                "text": "AbnahmeprotokollProjektname / Projektnummer",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Abnahmeprotokoll",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Abnahmeprotokoll",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Projektname / Projektnummer",
+                    "style_id": "HKopfzeile285ptF",
+                    "style_name": "H_Kopfzeile2 8.5pt (F)",
+                    "runs": [
+                      {
+                        "text": "Projektname / Projektnummer",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "AbnahmeprotokollProjektname / Projektnummer"
+        },
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/header3.xml",
+      "text": "VerwaltungseinheitGeschäftsbereich",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Kopfzeile",
+          "style_name": "header"
+        },
+        {
+          "type": "table",
+          "style_id": "Tabellenraster",
+          "style_name": "Table Grid",
+          "rows": [
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "restart",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "Verwaltungseinheit",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Verwaltungseinheit",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header",
+                    "runs": [
+                      {
+                        "text": "Verwaltungseinheit",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "Geschäftsbereich",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Geschäftsbereich",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header",
+                    "runs": [
+                      {
+                        "text": "Geschäftsbereich",
+                        "bold": false,
+                        "italic": false,
+                        "underline": "",
+                        "field_char_types": [],
+                        "instr_text": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": "continue",
+                "blocks": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "text": "",
+                "grid_span": null,
+                "v_merge": null,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style_id": "Kopfzeile",
+                    "style_name": "header"
+                  }
+                ]
+              }
+            ]
+          ],
+          "text": "VerwaltungseinheitGeschäftsbereich"
+        },
+        {
+          "type": "paragraph"
+        }
+      ],
+      "field_codes": []
+    }
+  ],
+  "footers": [
+    {
+      "part_name": "word/footer1.xml",
+      "text": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Fuzeile",
+          "style_name": "footer"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/footer2.xml",
+      "text": "abnahmeprotokoll.docx9/99/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "abnahmeprotokoll.docx9/99/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "9/99/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    },
+    {
+      "part_name": "word/footer3.xml",
+      "text": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "style_id": "Fuzeile",
+          "style_name": "footer"
+        }
+      ],
+      "field_codes": []
+    },
+    {
+      "part_name": "word/footer4.xml",
+      "text": "abnahmeprotokoll.docx8/98/9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "abnahmeprotokoll.docx8/98/9",
+          "style_id": "Fuzeile",
+          "style_name": "footer",
+          "field_codes": [
+            "PAGE \\* MERGEFORMAT",
+            "PAGE \\* MERGEFORMAT",
+            "FILENAME \\* Lower \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT",
+            "NUMPAGES \\* MERGEFORMAT"
+          ],
+          "runs": [
+            {
+              "text": "8/98/9",
+              "bold": false,
+              "italic": false,
+              "underline": "",
+              "field_char_types": [],
+              "instr_text": []
+            }
+          ]
+        }
+      ],
+      "field_codes": [
+        "PAGE \\* MERGEFORMAT",
+        "PAGE \\* MERGEFORMAT",
+        "FILENAME \\* Lower \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT",
+        "NUMPAGES \\* MERGEFORMAT"
+      ]
+    }
+  ],
+  "glossary": {
+    "part_name": "word/glossary/document.xml",
+    "text": "Status auswählenKlassifizierung auswählen",
+    "doc_parts": [
+      {
+        "name": "61C4B9589DB149138F4BB98528B522D6",
+        "category": "Allgemein",
+        "gallery": null,
+        "description": null,
+        "text": "Status auswählen",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Status auswählen",
+            "style_id": "61C4B9589DB149138F4BB98528B522D6",
+            "runs": [
+              {
+                "text": "Status auswählen",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "568E0EC9EFA34B9B9828E6D94795E264",
+        "category": "Allgemein",
+        "gallery": null,
+        "description": null,
+        "text": "Klassifizierung auswählen",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Klassifizierung auswählen",
+            "style_id": "568E0EC9EFA34B9B9828E6D94795E264",
+            "runs": [
+              {
+                "text": "Klassifizierung auswählen",
+                "bold": false,
+                "italic": false,
+                "underline": "",
+                "field_char_types": [],
+                "instr_text": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "custom_xml": [],
+  "footnotes": [],
+  "endnotes": []
+}
